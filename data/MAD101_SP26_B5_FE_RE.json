@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "bb9dd772-4378-4c03-9f97-531451051805",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 1,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q01.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:00:49.468039+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "f4a0d5d2-de98-400e-b35f-d04b7abe945d",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bb9dd772-4378-4c03-9f97-531451051805"
+      },
+      {
+        "id": "15fed7d8-34c5-47a9-bd9e-8a9470b493c7",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bb9dd772-4378-4c03-9f97-531451051805"
+      },
+      {
+        "id": "e88508eb-4cd1-4a20-ba3c-ab32ce2be08a",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bb9dd772-4378-4c03-9f97-531451051805"
+      },
+      {
+        "id": "92d10675-0529-4700-97b7-6f46f451cdbe",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "bb9dd772-4378-4c03-9f97-531451051805"
+      },
+      {
+        "id": "56d08a67-7e26-4b5c-b09b-26cb6409465c",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bb9dd772-4378-4c03-9f97-531451051805"
+      },
+      {
+        "id": "d64bad32-4774-4239-90b8-f782b229011c",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bb9dd772-4378-4c03-9f97-531451051805"
+      },
+      {
+        "id": "fc636d12-f5a8-40f0-937b-118b96f1c801",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bb9dd772-4378-4c03-9f97-531451051805"
+      },
+      {
+        "id": "feb516d0-dc54-42d9-ba4b-b8452629c91b",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bb9dd772-4378-4c03-9f97-531451051805"
+      }
+    ]
+  },
+  {
+    "id": "285e3c94-5927-491c-b234-3b99b7d26de1",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 2,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q02.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:00:50.459252+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "fbecfd37-40a1-4c0f-8191-63df80af0633",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "285e3c94-5927-491c-b234-3b99b7d26de1"
+      },
+      {
+        "id": "93d570ea-9d74-442d-af63-5db2de5c46ca",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "285e3c94-5927-491c-b234-3b99b7d26de1"
+      },
+      {
+        "id": "fd02aaa0-948a-4ea4-a6a2-32d4a37d69c2",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "285e3c94-5927-491c-b234-3b99b7d26de1"
+      },
+      {
+        "id": "a0a5d852-f160-4f43-851e-c0fe3e1290b8",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "285e3c94-5927-491c-b234-3b99b7d26de1"
+      },
+      {
+        "id": "ce55981a-93f6-4331-9191-471263741e12",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "285e3c94-5927-491c-b234-3b99b7d26de1"
+      },
+      {
+        "id": "11e92ab5-8b1a-461e-8923-b9334e09b1f1",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "285e3c94-5927-491c-b234-3b99b7d26de1"
+      },
+      {
+        "id": "7bd447e9-03c7-4c5c-9622-d8de56708128",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "285e3c94-5927-491c-b234-3b99b7d26de1"
+      },
+      {
+        "id": "90eb1cf9-ee8c-4706-8932-2fc667d6e435",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "285e3c94-5927-491c-b234-3b99b7d26de1"
+      }
+    ]
+  },
+  {
+    "id": "6827a8a9-e1be-4a86-9643-1b9bf166aa48",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 3,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q03.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:00:51.422034+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "0ee36b3a-617d-4748-b043-7b4c4304374f",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "6827a8a9-e1be-4a86-9643-1b9bf166aa48"
+      },
+      {
+        "id": "fb1eb24d-2c29-4b25-92f7-8a69e93f88bf",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6827a8a9-e1be-4a86-9643-1b9bf166aa48"
+      },
+      {
+        "id": "a6eee099-24f0-44d6-8fe9-fca6d2dbbe46",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6827a8a9-e1be-4a86-9643-1b9bf166aa48"
+      },
+      {
+        "id": "2df84084-795a-48fc-afda-e2142016c505",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6827a8a9-e1be-4a86-9643-1b9bf166aa48"
+      },
+      {
+        "id": "bc53a29b-cb52-403e-8e6e-170cf5655c91",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6827a8a9-e1be-4a86-9643-1b9bf166aa48"
+      },
+      {
+        "id": "0b653b11-0ff9-42c1-88ac-9b3ca680f76e",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6827a8a9-e1be-4a86-9643-1b9bf166aa48"
+      },
+      {
+        "id": "698d8b24-0be6-47fb-8916-74882043e581",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6827a8a9-e1be-4a86-9643-1b9bf166aa48"
+      },
+      {
+        "id": "8c893e36-732e-44a0-b1bc-69bf3fb79bb1",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6827a8a9-e1be-4a86-9643-1b9bf166aa48"
+      }
+    ]
+  },
+  {
+    "id": "5fea85a9-5849-4dff-a6c3-495a666e9b44",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 4,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q04.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:00:52.259552+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "c4fb6b22-0f6b-4c74-81ee-73f352f7c047",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "5fea85a9-5849-4dff-a6c3-495a666e9b44"
+      },
+      {
+        "id": "8f193914-681a-4d4c-88ad-f848718ca6aa",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5fea85a9-5849-4dff-a6c3-495a666e9b44"
+      },
+      {
+        "id": "a081bb93-bdc4-46f3-8aa1-ce88deed326e",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5fea85a9-5849-4dff-a6c3-495a666e9b44"
+      },
+      {
+        "id": "daa30b16-bca2-4e5d-87eb-dfea74250530",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5fea85a9-5849-4dff-a6c3-495a666e9b44"
+      },
+      {
+        "id": "54376bfb-7ff0-4190-843e-84a0f9d29234",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5fea85a9-5849-4dff-a6c3-495a666e9b44"
+      },
+      {
+        "id": "826af5d3-2556-4193-b103-6f8eb7923542",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5fea85a9-5849-4dff-a6c3-495a666e9b44"
+      },
+      {
+        "id": "633e4f53-3914-4e62-9dd7-1183891320c3",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5fea85a9-5849-4dff-a6c3-495a666e9b44"
+      },
+      {
+        "id": "30394f8b-8897-4a29-a59d-c3deb3121aa9",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5fea85a9-5849-4dff-a6c3-495a666e9b44"
+      }
+    ]
+  },
+  {
+    "id": "3aec559f-c6e9-4518-bd61-ef5489d1992f",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 5,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q05.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:00:53.031488+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "b7f9163b-724c-4e55-8d85-c7cb884df0f3",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "3aec559f-c6e9-4518-bd61-ef5489d1992f"
+      },
+      {
+        "id": "fdf70778-8a4a-4573-b299-aeea10feb126",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "3aec559f-c6e9-4518-bd61-ef5489d1992f"
+      },
+      {
+        "id": "2ffc30b9-5572-4448-8216-923f80227c5d",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "3aec559f-c6e9-4518-bd61-ef5489d1992f"
+      },
+      {
+        "id": "e6f99a22-a7bf-4456-a0ad-57a1393ef352",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "3aec559f-c6e9-4518-bd61-ef5489d1992f"
+      },
+      {
+        "id": "c2be9c6f-59d8-45c7-997d-ea9eb847f6ea",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "3aec559f-c6e9-4518-bd61-ef5489d1992f"
+      },
+      {
+        "id": "f972ff78-e802-4c20-a4a5-ee7a04d60281",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "3aec559f-c6e9-4518-bd61-ef5489d1992f"
+      },
+      {
+        "id": "9bc6e6b9-10fa-491a-8bd6-742b78e4a131",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "3aec559f-c6e9-4518-bd61-ef5489d1992f"
+      },
+      {
+        "id": "190edeb0-9dd4-4451-aec9-d96b34a9dd10",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "3aec559f-c6e9-4518-bd61-ef5489d1992f"
+      }
+    ]
+  },
+  {
+    "id": "e2926595-16e8-4ce7-90c3-82515a36e5d2",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 6,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q06.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:00:53.814685+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "99fc1a9d-e527-4372-a99c-410e9366f846",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e2926595-16e8-4ce7-90c3-82515a36e5d2"
+      },
+      {
+        "id": "30d4acb9-3dcc-4765-b8a7-86be35113561",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "e2926595-16e8-4ce7-90c3-82515a36e5d2"
+      },
+      {
+        "id": "9084fa92-b261-4bc2-a4ea-b4683cbdfdda",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e2926595-16e8-4ce7-90c3-82515a36e5d2"
+      },
+      {
+        "id": "f90ae440-1f88-49bf-8f25-396f33ff45e5",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e2926595-16e8-4ce7-90c3-82515a36e5d2"
+      },
+      {
+        "id": "9f416ac4-a2be-4193-87f0-abf5c127cd6f",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e2926595-16e8-4ce7-90c3-82515a36e5d2"
+      },
+      {
+        "id": "627498b3-740d-4da0-ba98-c0df5716e1fc",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e2926595-16e8-4ce7-90c3-82515a36e5d2"
+      },
+      {
+        "id": "a1c85491-627f-40ea-b978-c62471c82cf0",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e2926595-16e8-4ce7-90c3-82515a36e5d2"
+      },
+      {
+        "id": "163c09dc-015a-43f7-be7e-c88137d82947",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e2926595-16e8-4ce7-90c3-82515a36e5d2"
+      }
+    ]
+  },
+  {
+    "id": "823b6f74-b186-4252-9213-6a4dbb306085",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 7,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q07.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:00:54.604525+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "60b757bf-be3a-40e4-b4be-c02f8f605bfb",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "823b6f74-b186-4252-9213-6a4dbb306085"
+      },
+      {
+        "id": "51e1271c-9f70-4eee-92de-188f24c99223",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "823b6f74-b186-4252-9213-6a4dbb306085"
+      },
+      {
+        "id": "535cded0-4769-4561-822c-762a56079796",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "823b6f74-b186-4252-9213-6a4dbb306085"
+      },
+      {
+        "id": "cbd79bdd-66d5-4a0f-9c34-f016b43d03f0",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "823b6f74-b186-4252-9213-6a4dbb306085"
+      },
+      {
+        "id": "d4d6836c-68b4-4b85-a62a-82c631b3e8ec",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "823b6f74-b186-4252-9213-6a4dbb306085"
+      },
+      {
+        "id": "49ac0e8f-0750-4a1f-b452-872c8875ca72",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "823b6f74-b186-4252-9213-6a4dbb306085"
+      },
+      {
+        "id": "8f5d558a-36d0-44de-9386-a2c3806f7f2d",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "823b6f74-b186-4252-9213-6a4dbb306085"
+      },
+      {
+        "id": "bf9b23ca-6418-4bfd-94bd-d85767886003",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "823b6f74-b186-4252-9213-6a4dbb306085"
+      }
+    ]
+  },
+  {
+    "id": "e5121d17-38c6-4440-84e7-948490236e5d",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 8,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q08.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:00:55.360842+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "4cb09cce-5cff-4b7a-bb91-c30ecdfae559",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "e5121d17-38c6-4440-84e7-948490236e5d"
+      },
+      {
+        "id": "da74462d-c4b9-45a9-b255-0c9e50f29a59",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e5121d17-38c6-4440-84e7-948490236e5d"
+      },
+      {
+        "id": "553c33ad-cc32-43ca-a2a0-aa31249ef69a",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e5121d17-38c6-4440-84e7-948490236e5d"
+      },
+      {
+        "id": "87579c41-9a88-4f3f-aa6f-3a74587b25de",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e5121d17-38c6-4440-84e7-948490236e5d"
+      },
+      {
+        "id": "f776fdc0-c198-43e4-961d-e73708477863",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e5121d17-38c6-4440-84e7-948490236e5d"
+      },
+      {
+        "id": "79e395d3-dfbe-43e3-a84c-e3aa62b78d03",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e5121d17-38c6-4440-84e7-948490236e5d"
+      },
+      {
+        "id": "c3614c87-ec13-4fd0-ac79-477d4660c7db",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e5121d17-38c6-4440-84e7-948490236e5d"
+      },
+      {
+        "id": "bd6bdedc-17f4-4c1b-ae6c-11f721aca1af",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e5121d17-38c6-4440-84e7-948490236e5d"
+      }
+    ]
+  },
+  {
+    "id": "e2bf4562-3620-41c6-84a3-5f0ffb6d9fa5",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 9,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q09.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:00:56.135131+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "6159f854-c771-47a5-a451-9e0611cf311a",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "e2bf4562-3620-41c6-84a3-5f0ffb6d9fa5"
+      },
+      {
+        "id": "ca4f0d11-1c6c-4170-8be5-a2ba77b2a6a0",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e2bf4562-3620-41c6-84a3-5f0ffb6d9fa5"
+      },
+      {
+        "id": "87557576-33bd-4363-b65c-d686ce1738a2",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e2bf4562-3620-41c6-84a3-5f0ffb6d9fa5"
+      },
+      {
+        "id": "d91a9e75-0db2-4594-a466-96fa70c64b1c",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e2bf4562-3620-41c6-84a3-5f0ffb6d9fa5"
+      },
+      {
+        "id": "52e20ba4-dc57-4084-83a2-c02957cdae54",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e2bf4562-3620-41c6-84a3-5f0ffb6d9fa5"
+      },
+      {
+        "id": "3601933b-d9a5-4c13-b92e-2a98fe1de4d5",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e2bf4562-3620-41c6-84a3-5f0ffb6d9fa5"
+      },
+      {
+        "id": "5c22f544-eb66-4757-8701-25415e1de2ca",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e2bf4562-3620-41c6-84a3-5f0ffb6d9fa5"
+      },
+      {
+        "id": "a00f4c4b-fdf5-4cad-9ede-95a0bb4e56fb",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e2bf4562-3620-41c6-84a3-5f0ffb6d9fa5"
+      }
+    ]
+  },
+  {
+    "id": "bbd4a532-ab0f-466b-b0c2-fa4923ceae18",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 10,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q10.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:00:56.87021+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "3429f406-7fbc-4e39-97aa-28a1571f843b",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bbd4a532-ab0f-466b-b0c2-fa4923ceae18"
+      },
+      {
+        "id": "3f7f8ec2-0489-40cc-aca1-cde0ec86811e",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bbd4a532-ab0f-466b-b0c2-fa4923ceae18"
+      },
+      {
+        "id": "2e7ab5b7-70df-4c60-a93b-e0f85a9f28eb",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "bbd4a532-ab0f-466b-b0c2-fa4923ceae18"
+      },
+      {
+        "id": "f138107f-12c6-41fd-816e-fdf8d391da85",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bbd4a532-ab0f-466b-b0c2-fa4923ceae18"
+      },
+      {
+        "id": "757b7e66-bec8-456a-89f3-acc87e31aca7",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bbd4a532-ab0f-466b-b0c2-fa4923ceae18"
+      },
+      {
+        "id": "c8f94daa-500e-4419-a46f-7b36ec17ac3c",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bbd4a532-ab0f-466b-b0c2-fa4923ceae18"
+      },
+      {
+        "id": "e1d9081c-e3b6-4dbc-bd46-a25294fce45f",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bbd4a532-ab0f-466b-b0c2-fa4923ceae18"
+      },
+      {
+        "id": "4ed22f25-81fd-41bb-8a7f-39d1dff18580",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bbd4a532-ab0f-466b-b0c2-fa4923ceae18"
+      }
+    ]
+  },
+  {
+    "id": "34af317d-48e9-4c3f-a33c-68a5cbb29bd9",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 11,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q11.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:00:57.648676+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "f2d0244c-9463-4228-9734-8c3b24eddde5",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "34af317d-48e9-4c3f-a33c-68a5cbb29bd9"
+      },
+      {
+        "id": "48e673a0-7d6d-4d21-8e20-3628829e123a",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "34af317d-48e9-4c3f-a33c-68a5cbb29bd9"
+      },
+      {
+        "id": "87c48bf4-a3f2-4928-a69d-6a4545254136",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "34af317d-48e9-4c3f-a33c-68a5cbb29bd9"
+      },
+      {
+        "id": "9181d0e2-79e7-42ee-89d4-fffbe89c4dd4",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "34af317d-48e9-4c3f-a33c-68a5cbb29bd9"
+      },
+      {
+        "id": "cf197b0a-257b-4839-abf7-e19fe4846bf3",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "34af317d-48e9-4c3f-a33c-68a5cbb29bd9"
+      },
+      {
+        "id": "43c57ae1-a240-42c6-8b22-91a0ca9f3334",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "34af317d-48e9-4c3f-a33c-68a5cbb29bd9"
+      },
+      {
+        "id": "00336764-2c89-4dd7-8f6e-8f52440f148c",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "34af317d-48e9-4c3f-a33c-68a5cbb29bd9"
+      },
+      {
+        "id": "31d8e880-3c2c-4276-8469-cd60c6a3561f",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "34af317d-48e9-4c3f-a33c-68a5cbb29bd9"
+      }
+    ]
+  },
+  {
+    "id": "cb282055-1fc4-4ba9-ab51-45bd9666743c",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 12,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q12.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:00:58.492133+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "bb6cd305-5b48-415d-9045-9a0899b49964",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cb282055-1fc4-4ba9-ab51-45bd9666743c"
+      },
+      {
+        "id": "5d80be59-1156-44ec-8cd2-9d809a8bb42f",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cb282055-1fc4-4ba9-ab51-45bd9666743c"
+      },
+      {
+        "id": "3c4da26f-376a-47de-8373-e6eb0b005207",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "cb282055-1fc4-4ba9-ab51-45bd9666743c"
+      },
+      {
+        "id": "155fd45c-697e-434c-9817-38c0de734031",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cb282055-1fc4-4ba9-ab51-45bd9666743c"
+      },
+      {
+        "id": "bdb0e554-6b07-48d6-b5e0-6b8712ce2f0c",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cb282055-1fc4-4ba9-ab51-45bd9666743c"
+      },
+      {
+        "id": "58cb99df-0867-4b76-a7b4-fc3925919b17",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cb282055-1fc4-4ba9-ab51-45bd9666743c"
+      },
+      {
+        "id": "402453f1-fcee-48d6-a644-723bf6f5a8e8",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cb282055-1fc4-4ba9-ab51-45bd9666743c"
+      },
+      {
+        "id": "b70fdf87-4f6b-400e-87da-286328f5dde9",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cb282055-1fc4-4ba9-ab51-45bd9666743c"
+      }
+    ]
+  },
+  {
+    "id": "e8d95aaf-ebe8-4315-b105-701910d4843f",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 13,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q13.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:00:59.283087+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "9b0686f4-e872-4824-9d44-0c69ccd80f12",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e8d95aaf-ebe8-4315-b105-701910d4843f"
+      },
+      {
+        "id": "ec6b8e05-1b52-48ca-a59e-a488a173be5a",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "e8d95aaf-ebe8-4315-b105-701910d4843f"
+      },
+      {
+        "id": "269cc5a9-3884-4ca5-aa55-bc36c8fd71f6",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e8d95aaf-ebe8-4315-b105-701910d4843f"
+      },
+      {
+        "id": "502fc011-7821-472b-8ce4-d4904aef7d08",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e8d95aaf-ebe8-4315-b105-701910d4843f"
+      },
+      {
+        "id": "63bd4836-5d5b-4a5a-bb7c-24cac32a8e2e",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e8d95aaf-ebe8-4315-b105-701910d4843f"
+      },
+      {
+        "id": "f1215297-4495-4907-bd7d-f4e0b2c07b14",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e8d95aaf-ebe8-4315-b105-701910d4843f"
+      },
+      {
+        "id": "b0444dbf-3fb1-4eea-8148-736c3d5cc443",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e8d95aaf-ebe8-4315-b105-701910d4843f"
+      },
+      {
+        "id": "3ab5adce-d09d-4d34-88ae-516b7256980e",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e8d95aaf-ebe8-4315-b105-701910d4843f"
+      }
+    ]
+  },
+  {
+    "id": "c6e5091f-37cc-4634-b7eb-6fe3d74d421d",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 14,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q14.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:00.128186+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "fe55431d-c215-47b9-ad7a-1e6bec7a54ef",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "c6e5091f-37cc-4634-b7eb-6fe3d74d421d"
+      },
+      {
+        "id": "d3286503-1ca2-4dd8-91ee-930584cb34e2",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c6e5091f-37cc-4634-b7eb-6fe3d74d421d"
+      },
+      {
+        "id": "7adb0511-bc43-4294-af31-eef08e204760",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c6e5091f-37cc-4634-b7eb-6fe3d74d421d"
+      },
+      {
+        "id": "b7867fef-5b22-42d8-97ed-5fa7f4837b0e",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c6e5091f-37cc-4634-b7eb-6fe3d74d421d"
+      },
+      {
+        "id": "3a26b467-7463-43be-8d94-4a40e061ae34",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c6e5091f-37cc-4634-b7eb-6fe3d74d421d"
+      },
+      {
+        "id": "02ae8187-a7cf-47b8-b1e4-2c3833c0dc58",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c6e5091f-37cc-4634-b7eb-6fe3d74d421d"
+      },
+      {
+        "id": "e7e50bb1-24a5-48d9-9e80-51acbb7d4082",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c6e5091f-37cc-4634-b7eb-6fe3d74d421d"
+      },
+      {
+        "id": "4923a0dc-6461-4735-8745-a846d1b76f76",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c6e5091f-37cc-4634-b7eb-6fe3d74d421d"
+      }
+    ]
+  },
+  {
+    "id": "a6d48e56-53fa-49d5-a719-8f5f809bbaa8",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 15,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q15.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:00.940421+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "eddb71aa-deab-48a4-ab27-13cc30ccac54",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a6d48e56-53fa-49d5-a719-8f5f809bbaa8"
+      },
+      {
+        "id": "af7002d6-4dbd-44a6-9dd2-203a10088988",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a6d48e56-53fa-49d5-a719-8f5f809bbaa8"
+      },
+      {
+        "id": "871fc7c9-fb7e-4e4d-8e5c-dc4b413195a3",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a6d48e56-53fa-49d5-a719-8f5f809bbaa8"
+      },
+      {
+        "id": "9c810425-ff26-4d6d-8d27-4464c374d75a",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a6d48e56-53fa-49d5-a719-8f5f809bbaa8"
+      },
+      {
+        "id": "b778129b-f75c-454c-8715-74a4e76adcc7",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "a6d48e56-53fa-49d5-a719-8f5f809bbaa8"
+      },
+      {
+        "id": "c1eda77c-99c5-4ebc-9a16-bd29c9f8c598",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a6d48e56-53fa-49d5-a719-8f5f809bbaa8"
+      },
+      {
+        "id": "7a28958b-b086-43a0-bac1-9235c8941371",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a6d48e56-53fa-49d5-a719-8f5f809bbaa8"
+      },
+      {
+        "id": "118dfcfb-5ece-4b7f-90de-2adc6e4cb1ee",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a6d48e56-53fa-49d5-a719-8f5f809bbaa8"
+      }
+    ]
+  },
+  {
+    "id": "77ae658c-c8a9-42a0-af93-06f679cd2d21",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 16,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q16.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:01.774936+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "5181300e-2e24-4e0e-b0b6-27d349aaaab0",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "77ae658c-c8a9-42a0-af93-06f679cd2d21"
+      },
+      {
+        "id": "f1369931-87cd-4046-9b63-573b213aa392",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "77ae658c-c8a9-42a0-af93-06f679cd2d21"
+      },
+      {
+        "id": "16f00209-6615-4ad4-9262-9c96c8329ee3",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "77ae658c-c8a9-42a0-af93-06f679cd2d21"
+      },
+      {
+        "id": "f48cba30-092b-4400-b630-52d3289726cc",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "77ae658c-c8a9-42a0-af93-06f679cd2d21"
+      },
+      {
+        "id": "91bea36e-7836-40a9-894f-44b29378f1e5",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "77ae658c-c8a9-42a0-af93-06f679cd2d21"
+      },
+      {
+        "id": "e307b4ab-b691-4f9e-b12f-588cef851d70",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "77ae658c-c8a9-42a0-af93-06f679cd2d21"
+      },
+      {
+        "id": "d9c55807-eabf-4340-ab83-1f4ce7a302c9",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "77ae658c-c8a9-42a0-af93-06f679cd2d21"
+      },
+      {
+        "id": "6070f8af-7d04-49d1-b182-179eabefce66",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "77ae658c-c8a9-42a0-af93-06f679cd2d21"
+      }
+    ]
+  },
+  {
+    "id": "e84e9e7d-4c25-47d6-b5b0-4c48ef77466e",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 17,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q17.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:02.564081+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "29dfdb22-c0a2-4c47-af7c-a831a2f1515b",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "e84e9e7d-4c25-47d6-b5b0-4c48ef77466e"
+      },
+      {
+        "id": "1dde2432-545b-472f-aeb1-e765b4fc12ad",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e84e9e7d-4c25-47d6-b5b0-4c48ef77466e"
+      },
+      {
+        "id": "fa5ceed2-c483-4aac-9315-481bd4dfa26d",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e84e9e7d-4c25-47d6-b5b0-4c48ef77466e"
+      },
+      {
+        "id": "91fb3891-042d-43b8-a73b-1ecbd16da5c1",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e84e9e7d-4c25-47d6-b5b0-4c48ef77466e"
+      },
+      {
+        "id": "b2758d7b-d7dc-4988-99ed-7f015dacfb46",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e84e9e7d-4c25-47d6-b5b0-4c48ef77466e"
+      },
+      {
+        "id": "606eb537-2546-45a6-b335-eb98d1cd8c2b",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e84e9e7d-4c25-47d6-b5b0-4c48ef77466e"
+      },
+      {
+        "id": "8fe9d3ee-9409-4104-ad83-c616193b9398",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e84e9e7d-4c25-47d6-b5b0-4c48ef77466e"
+      },
+      {
+        "id": "f2818fd1-42dc-4ea7-bd15-928f27644861",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e84e9e7d-4c25-47d6-b5b0-4c48ef77466e"
+      }
+    ]
+  },
+  {
+    "id": "f982630f-dda6-44b9-a309-240315aa7d97",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 18,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q18.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:03.315688+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "4698f257-f7ec-44cf-be35-75cf0c78ae63",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "f982630f-dda6-44b9-a309-240315aa7d97"
+      },
+      {
+        "id": "a49620b9-0003-4ebb-aacc-1b5e4d66077e",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "f982630f-dda6-44b9-a309-240315aa7d97"
+      },
+      {
+        "id": "e4645eab-3641-49f9-af75-82775e0547b3",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "f982630f-dda6-44b9-a309-240315aa7d97"
+      },
+      {
+        "id": "18a3e604-96ff-4a80-8387-4a92299aebb9",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "f982630f-dda6-44b9-a309-240315aa7d97"
+      },
+      {
+        "id": "7865afdc-8991-4ee3-adaa-64118c0b225b",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "f982630f-dda6-44b9-a309-240315aa7d97"
+      },
+      {
+        "id": "36080a92-abed-45e5-8371-10a61665fac7",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "f982630f-dda6-44b9-a309-240315aa7d97"
+      },
+      {
+        "id": "588af02a-23c0-4852-ab2f-fc66a1c9c913",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "f982630f-dda6-44b9-a309-240315aa7d97"
+      },
+      {
+        "id": "0bb2d3bc-5818-4007-b03d-8e7bbbbd5439",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "f982630f-dda6-44b9-a309-240315aa7d97"
+      }
+    ]
+  },
+  {
+    "id": "6b5847ed-35c7-4f4a-b892-eaacb2dd09fa",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 19,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q19.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:04.105643+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "2dbd12d7-4612-4443-a4cb-1a83c06ed165",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6b5847ed-35c7-4f4a-b892-eaacb2dd09fa"
+      },
+      {
+        "id": "60fc7873-27fc-491c-acd5-a5cc81937a72",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6b5847ed-35c7-4f4a-b892-eaacb2dd09fa"
+      },
+      {
+        "id": "ba3a32c1-f949-4e60-a81c-09a6285aa37b",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6b5847ed-35c7-4f4a-b892-eaacb2dd09fa"
+      },
+      {
+        "id": "6c11267b-ffae-4286-bc10-dd833f3ac82b",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "6b5847ed-35c7-4f4a-b892-eaacb2dd09fa"
+      },
+      {
+        "id": "488760ac-0584-454a-a348-278321562bb3",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6b5847ed-35c7-4f4a-b892-eaacb2dd09fa"
+      },
+      {
+        "id": "5903c8a7-ca76-4b58-acac-3180ae545542",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6b5847ed-35c7-4f4a-b892-eaacb2dd09fa"
+      },
+      {
+        "id": "be7eb9a7-fe92-4d13-903a-f5b2cad094f7",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6b5847ed-35c7-4f4a-b892-eaacb2dd09fa"
+      },
+      {
+        "id": "f427d1fa-3fe0-4648-ab39-7e899c1f30e0",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6b5847ed-35c7-4f4a-b892-eaacb2dd09fa"
+      }
+    ]
+  },
+  {
+    "id": "7cae5c6b-eb0f-4fa7-a4a8-a2f36079ff16",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 20,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q20.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:04.993841+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "292c4ac9-670f-46ed-bc96-221649feefcd",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7cae5c6b-eb0f-4fa7-a4a8-a2f36079ff16"
+      },
+      {
+        "id": "69dade3e-04a7-46ce-b2ef-783ca4de52a8",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7cae5c6b-eb0f-4fa7-a4a8-a2f36079ff16"
+      },
+      {
+        "id": "f88c487f-3577-4ac7-9c32-bade786cd544",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "7cae5c6b-eb0f-4fa7-a4a8-a2f36079ff16"
+      },
+      {
+        "id": "c1787db4-d786-4868-9709-d38228846350",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7cae5c6b-eb0f-4fa7-a4a8-a2f36079ff16"
+      },
+      {
+        "id": "0ede091e-6e20-4b93-8ff9-2d6f6bc0e209",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7cae5c6b-eb0f-4fa7-a4a8-a2f36079ff16"
+      },
+      {
+        "id": "49c44a94-88f0-481f-b517-4c54f38ae41c",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7cae5c6b-eb0f-4fa7-a4a8-a2f36079ff16"
+      },
+      {
+        "id": "8dc3ea45-bd5f-4024-9c6a-2ca4751c74cf",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7cae5c6b-eb0f-4fa7-a4a8-a2f36079ff16"
+      },
+      {
+        "id": "6a9537e2-fae8-49bf-b2e4-306318697393",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7cae5c6b-eb0f-4fa7-a4a8-a2f36079ff16"
+      }
+    ]
+  },
+  {
+    "id": "7528f8ed-48ce-432f-a5f9-e28d31555724",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 21,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q21.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:05.815803+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "1b259e01-2905-4400-82b7-3f4b285c6918",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7528f8ed-48ce-432f-a5f9-e28d31555724"
+      },
+      {
+        "id": "9a73ac38-51c7-46e6-bbc9-201d22f6e952",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "7528f8ed-48ce-432f-a5f9-e28d31555724"
+      },
+      {
+        "id": "157a40e2-6229-4f50-b87e-3a24eae4241c",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7528f8ed-48ce-432f-a5f9-e28d31555724"
+      },
+      {
+        "id": "8b099ea3-67ee-48be-8e7f-e9e04e12ca8c",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7528f8ed-48ce-432f-a5f9-e28d31555724"
+      },
+      {
+        "id": "d7a8fc2d-3fab-4e1b-a3fe-f0e893050ae9",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7528f8ed-48ce-432f-a5f9-e28d31555724"
+      },
+      {
+        "id": "5cca7553-3b5b-4d02-9c1c-3d09db2d8b7a",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7528f8ed-48ce-432f-a5f9-e28d31555724"
+      },
+      {
+        "id": "fdc0f236-74ce-4522-9180-5df5f02b24ad",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7528f8ed-48ce-432f-a5f9-e28d31555724"
+      },
+      {
+        "id": "0026736d-79ec-4082-a248-fbfd7f6b7807",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7528f8ed-48ce-432f-a5f9-e28d31555724"
+      }
+    ]
+  },
+  {
+    "id": "c9061df7-d23e-4682-8605-a37b99445f5f",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 22,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q22.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:06.683669+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "8880dd73-5bbe-476e-b9df-f9f108847f02",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c9061df7-d23e-4682-8605-a37b99445f5f"
+      },
+      {
+        "id": "1134c9c2-dca5-4f26-9317-f1443251a9bc",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c9061df7-d23e-4682-8605-a37b99445f5f"
+      },
+      {
+        "id": "ecddaeaa-b4f7-4a9a-bb28-500232ffc4c1",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "c9061df7-d23e-4682-8605-a37b99445f5f"
+      },
+      {
+        "id": "fc67ce96-431e-42b5-a6ad-c3c393ac7334",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c9061df7-d23e-4682-8605-a37b99445f5f"
+      },
+      {
+        "id": "05357534-9f0c-4a34-957e-a98eb814a762",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c9061df7-d23e-4682-8605-a37b99445f5f"
+      },
+      {
+        "id": "d7510a61-2492-49a1-b792-e24196da62e2",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c9061df7-d23e-4682-8605-a37b99445f5f"
+      },
+      {
+        "id": "4da39720-41ac-46bf-9fbc-e438a0fd6758",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c9061df7-d23e-4682-8605-a37b99445f5f"
+      },
+      {
+        "id": "32e55d3c-d4a3-4a31-94a2-865f7b31579b",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c9061df7-d23e-4682-8605-a37b99445f5f"
+      }
+    ]
+  },
+  {
+    "id": "909c1f3f-671d-41fa-a2b9-bf600c969132",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 23,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q23.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:07.441935+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "b8abd279-a14a-4841-b055-2fa937cb8e12",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "909c1f3f-671d-41fa-a2b9-bf600c969132"
+      },
+      {
+        "id": "23a398b4-ecce-475d-9404-6a7a6d8d7d89",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "909c1f3f-671d-41fa-a2b9-bf600c969132"
+      },
+      {
+        "id": "f7b13f91-295c-44e8-896a-e367abc52525",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "909c1f3f-671d-41fa-a2b9-bf600c969132"
+      },
+      {
+        "id": "51df7d85-a3ee-4ebf-86e2-6b966fd683bc",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "909c1f3f-671d-41fa-a2b9-bf600c969132"
+      },
+      {
+        "id": "a7f0ac0a-798a-4759-8df6-445d5fa111af",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "909c1f3f-671d-41fa-a2b9-bf600c969132"
+      },
+      {
+        "id": "37aa144f-8754-4755-ba91-1a7279465733",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "909c1f3f-671d-41fa-a2b9-bf600c969132"
+      },
+      {
+        "id": "736fb6a6-d6e6-477d-91e8-8035207a3547",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "909c1f3f-671d-41fa-a2b9-bf600c969132"
+      },
+      {
+        "id": "2e95709a-b995-4127-81e6-efaa285d368e",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "909c1f3f-671d-41fa-a2b9-bf600c969132"
+      }
+    ]
+  },
+  {
+    "id": "2fdf537f-751c-4b79-8347-f55fb961fb97",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 24,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q24.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:08.246079+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "c6d84ca1-9bc0-483d-94c0-a2f41a656dcd",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "2fdf537f-751c-4b79-8347-f55fb961fb97"
+      },
+      {
+        "id": "20d26514-e7cd-4f0b-bb0b-329319a253f0",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2fdf537f-751c-4b79-8347-f55fb961fb97"
+      },
+      {
+        "id": "992f0845-787f-483c-8951-5a6284bc5621",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2fdf537f-751c-4b79-8347-f55fb961fb97"
+      },
+      {
+        "id": "b2592562-bfe2-4532-880c-43662690be01",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2fdf537f-751c-4b79-8347-f55fb961fb97"
+      },
+      {
+        "id": "5b646c51-1f08-4198-8e22-3daf5e8a799c",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2fdf537f-751c-4b79-8347-f55fb961fb97"
+      },
+      {
+        "id": "081f754b-073d-4ff6-9ca2-072d41a60dfa",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2fdf537f-751c-4b79-8347-f55fb961fb97"
+      },
+      {
+        "id": "e06de588-c561-4e19-9e7e-a26bb6586cf3",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2fdf537f-751c-4b79-8347-f55fb961fb97"
+      },
+      {
+        "id": "36bd9a36-fd88-4130-96b1-ae7ecdb8b59d",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2fdf537f-751c-4b79-8347-f55fb961fb97"
+      }
+    ]
+  },
+  {
+    "id": "e80c85a4-e192-4de0-9173-a8edffd59abc",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 25,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q25.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:09.053072+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "91111a4c-07c4-4967-ade5-5470ce6f9969",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e80c85a4-e192-4de0-9173-a8edffd59abc"
+      },
+      {
+        "id": "486eee1a-1eae-4252-9b6b-f9b8d5b26eea",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e80c85a4-e192-4de0-9173-a8edffd59abc"
+      },
+      {
+        "id": "6b385bc2-3ad8-4d20-a8ff-aa723630e567",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "e80c85a4-e192-4de0-9173-a8edffd59abc"
+      },
+      {
+        "id": "d457cadd-644d-4d98-aa8d-f0944440effa",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e80c85a4-e192-4de0-9173-a8edffd59abc"
+      },
+      {
+        "id": "3ba6d478-7345-496c-a545-42752e0137d4",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e80c85a4-e192-4de0-9173-a8edffd59abc"
+      },
+      {
+        "id": "0b554d30-ea44-41b0-9e17-0b89a21981c7",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e80c85a4-e192-4de0-9173-a8edffd59abc"
+      },
+      {
+        "id": "461635c7-dc69-426d-ade3-ed4023a18bc6",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e80c85a4-e192-4de0-9173-a8edffd59abc"
+      },
+      {
+        "id": "5fe993ca-0e2b-4a45-82fa-4a3851584c49",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e80c85a4-e192-4de0-9173-a8edffd59abc"
+      }
+    ]
+  },
+  {
+    "id": "bce76f69-2881-4e12-8d26-6dfebe8a780f",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 26,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q26.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:09.984858+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "6ae2014c-5e16-4d5a-8369-ad8760177208",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bce76f69-2881-4e12-8d26-6dfebe8a780f"
+      },
+      {
+        "id": "ae27a670-5f11-474d-8d4a-c3c007664532",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bce76f69-2881-4e12-8d26-6dfebe8a780f"
+      },
+      {
+        "id": "1198c417-130c-4ebb-9ba4-1d2d19ab5f7b",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "bce76f69-2881-4e12-8d26-6dfebe8a780f"
+      },
+      {
+        "id": "fa57001f-4007-4be3-b04e-4236d28e0d84",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bce76f69-2881-4e12-8d26-6dfebe8a780f"
+      },
+      {
+        "id": "d8041085-6569-4c27-8c1a-3d5e418b622c",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bce76f69-2881-4e12-8d26-6dfebe8a780f"
+      },
+      {
+        "id": "1eb40a99-b388-4fb4-9e10-64483efc3523",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bce76f69-2881-4e12-8d26-6dfebe8a780f"
+      },
+      {
+        "id": "c36b61cd-54cc-4351-bcd5-0f370d5943c1",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bce76f69-2881-4e12-8d26-6dfebe8a780f"
+      },
+      {
+        "id": "49f1d4a1-d6ae-450a-8e39-8ce2e8dff417",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bce76f69-2881-4e12-8d26-6dfebe8a780f"
+      }
+    ]
+  },
+  {
+    "id": "de21b235-e693-4f4f-b66c-9c61fbb63fc3",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 27,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q27.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:10.77539+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "77f2aa7f-aee3-4a0f-8e35-9be6fcd723d1",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "de21b235-e693-4f4f-b66c-9c61fbb63fc3"
+      },
+      {
+        "id": "dd84a5fb-5ef1-46df-977b-2563a5e0ec98",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "de21b235-e693-4f4f-b66c-9c61fbb63fc3"
+      },
+      {
+        "id": "0fe36b20-db0a-495a-aabf-732a1921abb2",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "de21b235-e693-4f4f-b66c-9c61fbb63fc3"
+      },
+      {
+        "id": "f7f142dd-135f-4b41-acb8-905be59a6928",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "de21b235-e693-4f4f-b66c-9c61fbb63fc3"
+      },
+      {
+        "id": "612194a1-5264-4386-9445-00a1f7835fb2",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "de21b235-e693-4f4f-b66c-9c61fbb63fc3"
+      },
+      {
+        "id": "74c23866-4a49-468b-96a1-f0728b68e1cc",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "de21b235-e693-4f4f-b66c-9c61fbb63fc3"
+      },
+      {
+        "id": "b572562e-e720-48b9-9faa-ba92fa462dac",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "de21b235-e693-4f4f-b66c-9c61fbb63fc3"
+      },
+      {
+        "id": "4ba4b66d-3c84-4aa1-bc24-4ef88a8eb005",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "de21b235-e693-4f4f-b66c-9c61fbb63fc3"
+      }
+    ]
+  },
+  {
+    "id": "5887796b-c9c3-4664-8083-00fb0424d4ce",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 28,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q28.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:11.625262+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "188d43fa-dc47-48a1-8c1a-246e7a95436e",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5887796b-c9c3-4664-8083-00fb0424d4ce"
+      },
+      {
+        "id": "a895e51d-d6c6-4ad9-8a2f-b4c046d900b0",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "5887796b-c9c3-4664-8083-00fb0424d4ce"
+      },
+      {
+        "id": "e91a0997-a716-4597-9f9c-6bbe0232e870",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5887796b-c9c3-4664-8083-00fb0424d4ce"
+      },
+      {
+        "id": "f8e45a0a-9d8d-4de8-acc0-b1baf4f12c67",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5887796b-c9c3-4664-8083-00fb0424d4ce"
+      },
+      {
+        "id": "d5dfe910-eaa8-4a65-ac37-f1269c475b8d",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5887796b-c9c3-4664-8083-00fb0424d4ce"
+      },
+      {
+        "id": "d04b5609-ba7f-4333-bd7a-9912d84c7408",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5887796b-c9c3-4664-8083-00fb0424d4ce"
+      },
+      {
+        "id": "1160ecdd-7844-4de3-b244-2dfe6cc9e4d5",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5887796b-c9c3-4664-8083-00fb0424d4ce"
+      },
+      {
+        "id": "f7454d88-c883-4021-a936-3e15627e0d16",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5887796b-c9c3-4664-8083-00fb0424d4ce"
+      }
+    ]
+  },
+  {
+    "id": "74dbf04e-fd69-442f-8c44-40b95f936eb3",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 29,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q29.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:12.427793+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "103ea8c4-7f6b-4372-bc01-65504bbb6b0e",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "74dbf04e-fd69-442f-8c44-40b95f936eb3"
+      },
+      {
+        "id": "e4a8884e-3271-4087-bd19-f2e5acbddca3",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "74dbf04e-fd69-442f-8c44-40b95f936eb3"
+      },
+      {
+        "id": "a8628e8d-e096-444a-abe5-b6fd5c072b10",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "74dbf04e-fd69-442f-8c44-40b95f936eb3"
+      },
+      {
+        "id": "31f6e876-bc4c-483d-9e37-be3377d24300",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "74dbf04e-fd69-442f-8c44-40b95f936eb3"
+      },
+      {
+        "id": "64cec1e7-a6b8-4243-9296-1a8c997222aa",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "74dbf04e-fd69-442f-8c44-40b95f936eb3"
+      },
+      {
+        "id": "de838e44-8ebd-4e50-862c-5a2c924664a7",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "74dbf04e-fd69-442f-8c44-40b95f936eb3"
+      },
+      {
+        "id": "253605d7-40ab-40c8-969d-9f3d5b040571",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "74dbf04e-fd69-442f-8c44-40b95f936eb3"
+      },
+      {
+        "id": "2c0e306d-e18f-4440-ba33-4ad36c4b9881",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "74dbf04e-fd69-442f-8c44-40b95f936eb3"
+      }
+    ]
+  },
+  {
+    "id": "092ab20a-019c-45d7-a015-148e355652e0",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 30,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q30.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:13.168513+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "906f47e7-41b0-4746-aa11-3ccae5712c65",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "092ab20a-019c-45d7-a015-148e355652e0"
+      },
+      {
+        "id": "408ed636-672a-4259-bdd9-0d916d9334c0",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "092ab20a-019c-45d7-a015-148e355652e0"
+      },
+      {
+        "id": "e43a1588-59cf-47da-b600-d0087b565776",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "092ab20a-019c-45d7-a015-148e355652e0"
+      },
+      {
+        "id": "788bcd3d-7b99-4120-8b4a-516bee9e40a0",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "092ab20a-019c-45d7-a015-148e355652e0"
+      },
+      {
+        "id": "b43f6145-bd7a-4472-8a4c-22922ba4ceb5",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "092ab20a-019c-45d7-a015-148e355652e0"
+      },
+      {
+        "id": "d14dcad8-d646-4cfc-a08f-871b41e9c7e9",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "092ab20a-019c-45d7-a015-148e355652e0"
+      },
+      {
+        "id": "7b548d52-3d60-4100-a606-31db162e2858",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "092ab20a-019c-45d7-a015-148e355652e0"
+      },
+      {
+        "id": "f6afb0e8-e2a9-4369-9292-54318ffc0094",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "092ab20a-019c-45d7-a015-148e355652e0"
+      }
+    ]
+  },
+  {
+    "id": "03e6cd45-8633-4ef7-9cba-07f85a50b6e1",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 31,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q31.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:13.968973+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "478db821-3a50-4df1-b02f-53ca725ed0c5",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "03e6cd45-8633-4ef7-9cba-07f85a50b6e1"
+      },
+      {
+        "id": "4629f8cd-feae-4f43-99fa-b879c492bea5",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "03e6cd45-8633-4ef7-9cba-07f85a50b6e1"
+      },
+      {
+        "id": "be3c0aa5-0827-47cd-9fe3-9f20d006cd52",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "03e6cd45-8633-4ef7-9cba-07f85a50b6e1"
+      },
+      {
+        "id": "db43218c-1fed-4ca4-b3b3-1e76f5b36b32",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "03e6cd45-8633-4ef7-9cba-07f85a50b6e1"
+      },
+      {
+        "id": "835f6995-0bd9-4a94-96a0-407b232418d7",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "03e6cd45-8633-4ef7-9cba-07f85a50b6e1"
+      },
+      {
+        "id": "48c31e9c-9adc-4de3-9258-8a7190b2778a",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "03e6cd45-8633-4ef7-9cba-07f85a50b6e1"
+      },
+      {
+        "id": "cf0fd8cf-04ee-49c3-b4d7-ef98ff7a3fea",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "03e6cd45-8633-4ef7-9cba-07f85a50b6e1"
+      },
+      {
+        "id": "09db7a1a-3188-4fca-8fa6-f1899561bb43",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "03e6cd45-8633-4ef7-9cba-07f85a50b6e1"
+      }
+    ]
+  },
+  {
+    "id": "2b9229a7-403f-4bc1-82fc-29d2e83d15d5",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 32,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q32.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:14.725291+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "087f07e6-4503-4fcf-87aa-db9588d1fba4",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2b9229a7-403f-4bc1-82fc-29d2e83d15d5"
+      },
+      {
+        "id": "dca9e85b-98bb-49dd-95d0-a7b06475935d",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "2b9229a7-403f-4bc1-82fc-29d2e83d15d5"
+      },
+      {
+        "id": "40dffb50-6f26-4898-b37e-8f3ab5cbd924",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2b9229a7-403f-4bc1-82fc-29d2e83d15d5"
+      },
+      {
+        "id": "14213407-3dc6-4ecc-b108-580c60649da7",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2b9229a7-403f-4bc1-82fc-29d2e83d15d5"
+      },
+      {
+        "id": "61dd1c95-ff42-4f8d-8974-dcb70ab15572",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2b9229a7-403f-4bc1-82fc-29d2e83d15d5"
+      },
+      {
+        "id": "08401b06-0b63-4e5f-a452-6ba5a84c0774",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2b9229a7-403f-4bc1-82fc-29d2e83d15d5"
+      },
+      {
+        "id": "531849b6-1eb8-4674-9cce-5986b04127ff",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2b9229a7-403f-4bc1-82fc-29d2e83d15d5"
+      },
+      {
+        "id": "1ba5d5ed-fc15-4da0-8806-1d0f981290f0",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2b9229a7-403f-4bc1-82fc-29d2e83d15d5"
+      }
+    ]
+  },
+  {
+    "id": "723773ed-70d8-4318-b11d-ef571e8f14d1",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 33,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q33.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:15.496113+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "0fe393ad-9dc8-48a5-966e-a5620c96434c",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "723773ed-70d8-4318-b11d-ef571e8f14d1"
+      },
+      {
+        "id": "70fc9776-19a4-421b-bab8-28403d4b4c06",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "723773ed-70d8-4318-b11d-ef571e8f14d1"
+      },
+      {
+        "id": "a80337e8-a065-4530-87df-b199befd36ca",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "723773ed-70d8-4318-b11d-ef571e8f14d1"
+      },
+      {
+        "id": "72b6c46e-97ff-459f-bfb7-e4af25c0cb78",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "723773ed-70d8-4318-b11d-ef571e8f14d1"
+      },
+      {
+        "id": "e23ffb39-e2e3-478f-858e-91745c617b05",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "723773ed-70d8-4318-b11d-ef571e8f14d1"
+      },
+      {
+        "id": "8129bccf-15e6-43ed-8c17-bc54a89c47c6",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "723773ed-70d8-4318-b11d-ef571e8f14d1"
+      },
+      {
+        "id": "bb43073a-50bf-4a12-8307-41dbe7659225",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "723773ed-70d8-4318-b11d-ef571e8f14d1"
+      },
+      {
+        "id": "f7881c88-3859-4236-985d-4a532c1b82fe",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "723773ed-70d8-4318-b11d-ef571e8f14d1"
+      }
+    ]
+  },
+  {
+    "id": "7e2258d6-5092-4b8e-b9b7-042ad25fde16",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 34,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q34.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:16.340681+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "accb0777-97f6-4b8f-8567-f58c1d3ab6ca",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7e2258d6-5092-4b8e-b9b7-042ad25fde16"
+      },
+      {
+        "id": "43029581-0db9-404b-88a0-4843e298627b",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "7e2258d6-5092-4b8e-b9b7-042ad25fde16"
+      },
+      {
+        "id": "f42c6160-88c4-4f42-8116-9cd8aa2277b3",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7e2258d6-5092-4b8e-b9b7-042ad25fde16"
+      },
+      {
+        "id": "a70e2648-65b6-4022-86c4-3a6e6ab1daf6",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7e2258d6-5092-4b8e-b9b7-042ad25fde16"
+      },
+      {
+        "id": "d628d031-e402-4900-ab65-2abd544da63a",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7e2258d6-5092-4b8e-b9b7-042ad25fde16"
+      },
+      {
+        "id": "069f3ae5-43e8-4133-a1d6-6daf7961f51d",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7e2258d6-5092-4b8e-b9b7-042ad25fde16"
+      },
+      {
+        "id": "803a97bc-1467-4640-ae39-cac106781933",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7e2258d6-5092-4b8e-b9b7-042ad25fde16"
+      },
+      {
+        "id": "a2f71f55-4fc4-44fd-ada3-85982f190664",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7e2258d6-5092-4b8e-b9b7-042ad25fde16"
+      }
+    ]
+  },
+  {
+    "id": "2734599e-fc3a-4d9f-bc84-b310b6164543",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 35,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q35.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:17.088671+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "56903b95-9679-4c87-ae90-3350de8a7aaf",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2734599e-fc3a-4d9f-bc84-b310b6164543"
+      },
+      {
+        "id": "fb4d283a-37b6-4bd8-9cdd-7da9a7194293",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2734599e-fc3a-4d9f-bc84-b310b6164543"
+      },
+      {
+        "id": "5b5b63c2-a58a-45a5-b1b4-1c26573898ee",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2734599e-fc3a-4d9f-bc84-b310b6164543"
+      },
+      {
+        "id": "a6827850-424b-4330-9e20-665959af5528",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "2734599e-fc3a-4d9f-bc84-b310b6164543"
+      },
+      {
+        "id": "203e99a8-bd2c-4e79-96d6-063b3c9c6188",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2734599e-fc3a-4d9f-bc84-b310b6164543"
+      },
+      {
+        "id": "f7633490-53c9-4ca0-9899-1331a1523565",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2734599e-fc3a-4d9f-bc84-b310b6164543"
+      },
+      {
+        "id": "3ae60c58-257a-4a0e-98de-04b05318dffa",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2734599e-fc3a-4d9f-bc84-b310b6164543"
+      },
+      {
+        "id": "6edab468-d941-4e9a-8072-6edb80d2b933",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2734599e-fc3a-4d9f-bc84-b310b6164543"
+      }
+    ]
+  },
+  {
+    "id": "5b5d4470-4d60-4085-b773-f6dc7221760b",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 36,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q36.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:18.607503+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "6fcf2e30-4c5d-4784-b8b6-9f3521b62c85",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5b5d4470-4d60-4085-b773-f6dc7221760b"
+      },
+      {
+        "id": "ac076b34-7b19-4b5f-aaf0-b8cc0955fcb5",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5b5d4470-4d60-4085-b773-f6dc7221760b"
+      },
+      {
+        "id": "51b793f0-0bf4-4931-a2da-52261dd54df3",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "5b5d4470-4d60-4085-b773-f6dc7221760b"
+      },
+      {
+        "id": "701c1ac4-0bfe-4458-a5d7-75cc37ebe8ab",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5b5d4470-4d60-4085-b773-f6dc7221760b"
+      },
+      {
+        "id": "e07a00e9-1ca9-4f28-b45b-3c48aadbc415",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5b5d4470-4d60-4085-b773-f6dc7221760b"
+      },
+      {
+        "id": "846a6ac8-d2aa-407d-9a6c-729d730a282e",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5b5d4470-4d60-4085-b773-f6dc7221760b"
+      },
+      {
+        "id": "8fd82739-4d46-4d09-996d-54abd176caed",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5b5d4470-4d60-4085-b773-f6dc7221760b"
+      },
+      {
+        "id": "50772de6-78c8-47e9-812e-6c120ed437bc",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5b5d4470-4d60-4085-b773-f6dc7221760b"
+      }
+    ]
+  },
+  {
+    "id": "98be083a-c299-4f53-b39f-7c6890dcf1dd",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 37,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q37.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:19.402688+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "c4c1652d-b794-40f2-ab44-6202886ab016",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "98be083a-c299-4f53-b39f-7c6890dcf1dd"
+      },
+      {
+        "id": "bf6307ff-a2f2-4453-bbcf-76900074de03",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "98be083a-c299-4f53-b39f-7c6890dcf1dd"
+      },
+      {
+        "id": "624dcf06-921c-4d84-8328-b63be6f6e716",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "98be083a-c299-4f53-b39f-7c6890dcf1dd"
+      },
+      {
+        "id": "aaee9565-0c1a-4835-8f8b-c7a31fd3e3f0",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "98be083a-c299-4f53-b39f-7c6890dcf1dd"
+      },
+      {
+        "id": "1be48d2b-9307-42bb-9ea7-3f3769c69ed9",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "98be083a-c299-4f53-b39f-7c6890dcf1dd"
+      },
+      {
+        "id": "67770448-fb2c-4dfd-a301-e426c8bc5e15",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "98be083a-c299-4f53-b39f-7c6890dcf1dd"
+      },
+      {
+        "id": "a4290ddf-1703-4403-af9b-8d62eee2777b",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "98be083a-c299-4f53-b39f-7c6890dcf1dd"
+      },
+      {
+        "id": "593726dc-7704-46cc-9efd-065771b9dd96",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "98be083a-c299-4f53-b39f-7c6890dcf1dd"
+      }
+    ]
+  },
+  {
+    "id": "3a88ea93-2085-461a-99fe-ca28e7470e95",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 38,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q38.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:20.162176+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "f1f047c0-c503-438d-a99c-3aba61140764",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "3a88ea93-2085-461a-99fe-ca28e7470e95"
+      },
+      {
+        "id": "32a3b144-7697-48b5-a37a-e3af571476c3",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "3a88ea93-2085-461a-99fe-ca28e7470e95"
+      },
+      {
+        "id": "4904d0a8-5dd6-4165-b901-f9a2c3324dc5",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "3a88ea93-2085-461a-99fe-ca28e7470e95"
+      },
+      {
+        "id": "e6b49b4d-8170-487a-9720-917599b1c297",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "3a88ea93-2085-461a-99fe-ca28e7470e95"
+      },
+      {
+        "id": "b47e5d94-ed70-4040-809d-8dc41d12d2e8",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "3a88ea93-2085-461a-99fe-ca28e7470e95"
+      },
+      {
+        "id": "0a46f520-2708-4996-a80c-2d6e2581a778",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "3a88ea93-2085-461a-99fe-ca28e7470e95"
+      },
+      {
+        "id": "c1c231a9-d7ed-4e54-b63b-576fea4cbde7",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "3a88ea93-2085-461a-99fe-ca28e7470e95"
+      },
+      {
+        "id": "a1968d20-cac5-4ae5-ba52-03f39209243f",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "3a88ea93-2085-461a-99fe-ca28e7470e95"
+      }
+    ]
+  },
+  {
+    "id": "08694005-7a93-4df6-a25d-ac6d1bb8e9df",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 39,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q39.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:20.96743+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "5f0243c8-2e60-47b8-b16d-1cc770d97fec",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "08694005-7a93-4df6-a25d-ac6d1bb8e9df"
+      },
+      {
+        "id": "0809837c-43e1-4698-97ab-8f0d4a26c5be",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "08694005-7a93-4df6-a25d-ac6d1bb8e9df"
+      },
+      {
+        "id": "4415bb9f-51fd-49a2-965e-487335c29eab",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "08694005-7a93-4df6-a25d-ac6d1bb8e9df"
+      },
+      {
+        "id": "8853792e-4011-4bba-bffa-d69ef4055204",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "08694005-7a93-4df6-a25d-ac6d1bb8e9df"
+      },
+      {
+        "id": "4a0672e5-ce15-4324-ba8f-fef4b748b5c0",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "08694005-7a93-4df6-a25d-ac6d1bb8e9df"
+      },
+      {
+        "id": "cf554b45-f1f8-4cb5-8edc-c4c33a2abee1",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "08694005-7a93-4df6-a25d-ac6d1bb8e9df"
+      },
+      {
+        "id": "fb445adb-a26a-4a6f-8f0a-0b8b469c2ee6",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "08694005-7a93-4df6-a25d-ac6d1bb8e9df"
+      },
+      {
+        "id": "50591855-a7ef-4e38-910e-34525c6c5883",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "08694005-7a93-4df6-a25d-ac6d1bb8e9df"
+      }
+    ]
+  },
+  {
+    "id": "ee645150-2b11-422b-a068-05774ec1b615",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 40,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q40.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:21.708769+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "ee3e8979-57c7-4abb-a057-632ceca4bc59",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "ee645150-2b11-422b-a068-05774ec1b615"
+      },
+      {
+        "id": "0e7a9f39-0da3-4e27-8e8e-829019f5d5cb",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "ee645150-2b11-422b-a068-05774ec1b615"
+      },
+      {
+        "id": "29c36747-cc23-44ec-9cab-cdcfe6ebbb90",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "ee645150-2b11-422b-a068-05774ec1b615"
+      },
+      {
+        "id": "28068c1b-ce92-4347-96e0-fda0981f4f4c",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "ee645150-2b11-422b-a068-05774ec1b615"
+      },
+      {
+        "id": "4cdbb6d2-3754-47ab-8945-25fd2ce978b0",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "ee645150-2b11-422b-a068-05774ec1b615"
+      },
+      {
+        "id": "43d0b4be-099e-4b75-b72a-ead51cfd3749",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "ee645150-2b11-422b-a068-05774ec1b615"
+      },
+      {
+        "id": "1aeab000-d7ec-464e-a0c7-d1a7afc3d77b",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "ee645150-2b11-422b-a068-05774ec1b615"
+      },
+      {
+        "id": "5a48cd43-9d9a-4c66-b39f-4826ebf31d0b",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "ee645150-2b11-422b-a068-05774ec1b615"
+      }
+    ]
+  },
+  {
+    "id": "15e4c47b-44ff-4f16-98c4-1797315dd56b",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 41,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q41.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:22.542181+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "5cfe3bf0-1d73-4c23-9246-4b86e7123634",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "15e4c47b-44ff-4f16-98c4-1797315dd56b"
+      },
+      {
+        "id": "d01da91e-64a5-4f17-b2f7-d03e4f0fc869",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "15e4c47b-44ff-4f16-98c4-1797315dd56b"
+      },
+      {
+        "id": "914104b7-a371-4f25-8441-860885b3ad85",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "15e4c47b-44ff-4f16-98c4-1797315dd56b"
+      },
+      {
+        "id": "42aedbac-5856-4c86-a0b2-aa3b66cc8c28",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "15e4c47b-44ff-4f16-98c4-1797315dd56b"
+      },
+      {
+        "id": "ecc0443d-20cf-43a2-9650-c9680b98183b",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "15e4c47b-44ff-4f16-98c4-1797315dd56b"
+      },
+      {
+        "id": "f691e6ee-b537-4283-96ea-e93df2d360d6",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "15e4c47b-44ff-4f16-98c4-1797315dd56b"
+      },
+      {
+        "id": "73259e15-9353-4423-ae5e-e9ad149f6dc0",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "15e4c47b-44ff-4f16-98c4-1797315dd56b"
+      },
+      {
+        "id": "4f551222-2eea-420c-a60d-325653c90256",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "15e4c47b-44ff-4f16-98c4-1797315dd56b"
+      }
+    ]
+  },
+  {
+    "id": "c0b9ff65-8ec2-4620-9fe5-7afcca88641f",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 42,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q42.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:23.357731+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "e21098e4-93b5-46b5-a41d-2ede3130762e",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c0b9ff65-8ec2-4620-9fe5-7afcca88641f"
+      },
+      {
+        "id": "714f9dd2-5def-4d12-b00d-38c6537b2d72",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c0b9ff65-8ec2-4620-9fe5-7afcca88641f"
+      },
+      {
+        "id": "e0886024-d961-417f-8b6a-f25f9328bccc",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c0b9ff65-8ec2-4620-9fe5-7afcca88641f"
+      },
+      {
+        "id": "eaae31e6-2c28-4b9f-9088-15eb18fec332",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "c0b9ff65-8ec2-4620-9fe5-7afcca88641f"
+      },
+      {
+        "id": "2b4c7f77-2c9d-4e4d-bdae-a0f4f4647fc2",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c0b9ff65-8ec2-4620-9fe5-7afcca88641f"
+      },
+      {
+        "id": "75ff1266-e0b0-4f8e-89a2-38bf3bd90be2",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c0b9ff65-8ec2-4620-9fe5-7afcca88641f"
+      },
+      {
+        "id": "0d6c140c-6362-48f0-93f0-7086ffc669f0",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c0b9ff65-8ec2-4620-9fe5-7afcca88641f"
+      },
+      {
+        "id": "15606120-31fa-497f-ad9c-e2fdeea32560",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c0b9ff65-8ec2-4620-9fe5-7afcca88641f"
+      }
+    ]
+  },
+  {
+    "id": "95cd72e7-2926-4992-be77-e3b15bf00bbe",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 43,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q43.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:24.186839+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "07e9ad00-0d6a-4ad7-8296-8259ef0ad37c",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "95cd72e7-2926-4992-be77-e3b15bf00bbe"
+      },
+      {
+        "id": "74509a0b-9df8-4819-9abb-390fab1d734a",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "95cd72e7-2926-4992-be77-e3b15bf00bbe"
+      },
+      {
+        "id": "e2d1839e-9a11-46f1-8578-605382b6cd93",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "95cd72e7-2926-4992-be77-e3b15bf00bbe"
+      },
+      {
+        "id": "91e6bc47-a22e-42ef-bf05-020e3c019e84",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "95cd72e7-2926-4992-be77-e3b15bf00bbe"
+      },
+      {
+        "id": "734a5148-6991-4d21-b47f-787e054d84c1",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "95cd72e7-2926-4992-be77-e3b15bf00bbe"
+      },
+      {
+        "id": "4f859647-ff55-488d-b98c-95260d41de30",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "95cd72e7-2926-4992-be77-e3b15bf00bbe"
+      },
+      {
+        "id": "c9563381-964c-4f35-a8ea-879bd72906a2",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "95cd72e7-2926-4992-be77-e3b15bf00bbe"
+      },
+      {
+        "id": "5c0b54b3-f4fd-4cf7-ab6f-c50a177f3567",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "95cd72e7-2926-4992-be77-e3b15bf00bbe"
+      }
+    ]
+  },
+  {
+    "id": "2c385902-2199-4154-9e6a-aad60b8741a9",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 44,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q44.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:24.995064+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "60f647b1-c01c-41e1-a4f9-6a1c1deff306",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2c385902-2199-4154-9e6a-aad60b8741a9"
+      },
+      {
+        "id": "7307025a-5829-45a1-9647-59f9afc94e42",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2c385902-2199-4154-9e6a-aad60b8741a9"
+      },
+      {
+        "id": "980076e1-d876-4d13-9b6f-e2f7278fa198",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2c385902-2199-4154-9e6a-aad60b8741a9"
+      },
+      {
+        "id": "ff27516d-b7af-402c-91a1-c975ffc2b757",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2c385902-2199-4154-9e6a-aad60b8741a9"
+      },
+      {
+        "id": "754b24ee-1025-4f5a-af56-2332eab6f365",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "2c385902-2199-4154-9e6a-aad60b8741a9"
+      },
+      {
+        "id": "432a8ed0-320d-444a-897d-141fe1f55e14",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2c385902-2199-4154-9e6a-aad60b8741a9"
+      },
+      {
+        "id": "623442ec-2fd4-4941-909f-0de75a23e7be",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2c385902-2199-4154-9e6a-aad60b8741a9"
+      },
+      {
+        "id": "27e9d343-33c1-40a0-aae0-2fd6b47693d8",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "2c385902-2199-4154-9e6a-aad60b8741a9"
+      }
+    ]
+  },
+  {
+    "id": "4d0651c1-cd7d-45de-afb0-72f1a67639ed",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 45,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q45.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:25.765288+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "b0fd6679-4709-472a-a3d4-d06ab0760fc0",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "4d0651c1-cd7d-45de-afb0-72f1a67639ed"
+      },
+      {
+        "id": "6049d61a-f2eb-495b-8957-4a4e3e8f234e",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "4d0651c1-cd7d-45de-afb0-72f1a67639ed"
+      },
+      {
+        "id": "e07ebd4e-a41e-422e-b0ae-7920c330d63d",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "4d0651c1-cd7d-45de-afb0-72f1a67639ed"
+      },
+      {
+        "id": "c2653a55-e903-4ec8-b84f-fd0197192caf",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "4d0651c1-cd7d-45de-afb0-72f1a67639ed"
+      },
+      {
+        "id": "d40f56b4-31b2-4597-a8e5-4f96ced10a7c",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "4d0651c1-cd7d-45de-afb0-72f1a67639ed"
+      },
+      {
+        "id": "297b5c62-da68-4718-ab7c-929c0b8bf581",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "4d0651c1-cd7d-45de-afb0-72f1a67639ed"
+      },
+      {
+        "id": "410bcc70-394e-4684-9f46-51d954aa8cef",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "4d0651c1-cd7d-45de-afb0-72f1a67639ed"
+      },
+      {
+        "id": "a4619c41-b716-4236-827c-9592f3670516",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "4d0651c1-cd7d-45de-afb0-72f1a67639ed"
+      }
+    ]
+  },
+  {
+    "id": "14b68416-85a2-41fb-b6f2-b828cbcc642e",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 46,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q46.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:26.701085+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "2990f06f-ae18-4aea-b25c-c0c58ec5b2f3",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "14b68416-85a2-41fb-b6f2-b828cbcc642e"
+      },
+      {
+        "id": "6729c3fc-36da-4d36-adec-02af2c3b8c2a",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "14b68416-85a2-41fb-b6f2-b828cbcc642e"
+      },
+      {
+        "id": "2b26020e-9b66-4aaa-81f7-43740e3cd12f",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "14b68416-85a2-41fb-b6f2-b828cbcc642e"
+      },
+      {
+        "id": "9095b9bd-01c5-48a1-a636-2cb497d51377",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "14b68416-85a2-41fb-b6f2-b828cbcc642e"
+      },
+      {
+        "id": "3642b6b0-35f4-4873-9c43-444da6503090",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "14b68416-85a2-41fb-b6f2-b828cbcc642e"
+      },
+      {
+        "id": "c61adddd-6fda-4344-b1d6-d047a4571e31",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "14b68416-85a2-41fb-b6f2-b828cbcc642e"
+      },
+      {
+        "id": "4a8ab8bb-6f65-44bf-b0c6-17b33cec79fa",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "14b68416-85a2-41fb-b6f2-b828cbcc642e"
+      },
+      {
+        "id": "8577a0b1-0751-40f7-a59f-2b2e81052324",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "14b68416-85a2-41fb-b6f2-b828cbcc642e"
+      }
+    ]
+  },
+  {
+    "id": "07798fc5-725c-49fc-adbf-4dd32796c2ff",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 47,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q47.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:27.537205+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "bd7a916c-67db-45f3-88ec-408b81c4efe5",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "07798fc5-725c-49fc-adbf-4dd32796c2ff"
+      },
+      {
+        "id": "2c0ad26a-5106-463b-ba1c-28f4fe52b2bc",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "07798fc5-725c-49fc-adbf-4dd32796c2ff"
+      },
+      {
+        "id": "c134f457-1561-4061-860e-189444842275",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "07798fc5-725c-49fc-adbf-4dd32796c2ff"
+      },
+      {
+        "id": "4873ddc7-6542-4204-b62e-760461ac1f7e",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "07798fc5-725c-49fc-adbf-4dd32796c2ff"
+      },
+      {
+        "id": "100cbb60-7197-4b32-9dfb-099a7c2253b4",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "07798fc5-725c-49fc-adbf-4dd32796c2ff"
+      },
+      {
+        "id": "ec468e47-c37d-4dab-beae-8695ad103e34",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "07798fc5-725c-49fc-adbf-4dd32796c2ff"
+      },
+      {
+        "id": "fbe54a3d-f685-4865-a185-fe2bc0a6d373",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "07798fc5-725c-49fc-adbf-4dd32796c2ff"
+      },
+      {
+        "id": "efd3ea85-4b40-47db-9fb2-2406fa206976",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "07798fc5-725c-49fc-adbf-4dd32796c2ff"
+      }
+    ]
+  },
+  {
+    "id": "bcbca1e3-e4d4-44ad-ba8f-46ed90c720c1",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 48,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q48.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:28.343091+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "f6efac34-8d44-4e94-b946-c05a205e8d77",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bcbca1e3-e4d4-44ad-ba8f-46ed90c720c1"
+      },
+      {
+        "id": "23c08670-fd64-4777-a385-77051c8cffd4",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bcbca1e3-e4d4-44ad-ba8f-46ed90c720c1"
+      },
+      {
+        "id": "bdd4e2b5-d90b-4631-a995-9d0c9395c6d8",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "bcbca1e3-e4d4-44ad-ba8f-46ed90c720c1"
+      },
+      {
+        "id": "4740a46f-5757-4003-8b77-9cd3e08fc36f",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bcbca1e3-e4d4-44ad-ba8f-46ed90c720c1"
+      },
+      {
+        "id": "e846c089-c359-4bda-9311-3e3b36f1a758",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bcbca1e3-e4d4-44ad-ba8f-46ed90c720c1"
+      },
+      {
+        "id": "59d5f212-dcb7-48d9-8eab-43a38b4aa330",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bcbca1e3-e4d4-44ad-ba8f-46ed90c720c1"
+      },
+      {
+        "id": "3ea6a13e-3d2d-4a63-9f56-3380c32c82f0",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bcbca1e3-e4d4-44ad-ba8f-46ed90c720c1"
+      },
+      {
+        "id": "6377b846-c2a7-45bb-a5f7-ac64159dc950",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bcbca1e3-e4d4-44ad-ba8f-46ed90c720c1"
+      }
+    ]
+  },
+  {
+    "id": "1da99f17-2855-4842-9124-6dcdc5da408d",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 49,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q49.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:29.600159+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "7c5ea677-10b7-45e0-ab20-c09135833c1a",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "1da99f17-2855-4842-9124-6dcdc5da408d"
+      },
+      {
+        "id": "3ec816a2-e2e4-46bf-a02a-6c05bbab84e0",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "1da99f17-2855-4842-9124-6dcdc5da408d"
+      },
+      {
+        "id": "b1868236-97cf-47fc-b2a1-244b72a6f632",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "1da99f17-2855-4842-9124-6dcdc5da408d"
+      },
+      {
+        "id": "46208e7c-39f1-4c56-a855-8388bfbf2d6e",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "1da99f17-2855-4842-9124-6dcdc5da408d"
+      },
+      {
+        "id": "176f32b9-4a87-4c3c-b2be-8cffe402c04b",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "1da99f17-2855-4842-9124-6dcdc5da408d"
+      },
+      {
+        "id": "03ff16a1-0608-4c4a-9b27-a3f8885bb14d",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "1da99f17-2855-4842-9124-6dcdc5da408d"
+      },
+      {
+        "id": "74e12d5f-727d-453d-8441-abcdf413db2e",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "1da99f17-2855-4842-9124-6dcdc5da408d"
+      },
+      {
+        "id": "42dc4c19-228e-4c8a-99f7-3b0dec887754",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "1da99f17-2855-4842-9124-6dcdc5da408d"
+      }
+    ]
+  },
+  {
+    "id": "cd9a3daa-8824-4c99-a709-597f4499a4a1",
+    "exam_id": "2fdc669e-b018-44e2-818e-b26f978d7064",
+    "order_num": 50,
+    "content": null,
+    "image_url": "images/sp26_b5_fe_re_q50.webp",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-05-06T14:01:30.376502+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "84d35843-108b-4874-a56f-5fabe6ed79cf",
+        "label": "A",
+        "content": "",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "cd9a3daa-8824-4c99-a709-597f4499a4a1"
+      },
+      {
+        "id": "f9f4b674-32b6-40e5-bee1-1cc0a45d4e4e",
+        "label": "B",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cd9a3daa-8824-4c99-a709-597f4499a4a1"
+      },
+      {
+        "id": "63723ae9-5568-4235-b0ed-ba3938127cb8",
+        "label": "C",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cd9a3daa-8824-4c99-a709-597f4499a4a1"
+      },
+      {
+        "id": "3907967c-7587-4d13-945f-e579f7199ab1",
+        "label": "D",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cd9a3daa-8824-4c99-a709-597f4499a4a1"
+      },
+      {
+        "id": "955d601d-ca27-478f-85ad-d4ab5009e924",
+        "label": "E",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cd9a3daa-8824-4c99-a709-597f4499a4a1"
+      },
+      {
+        "id": "1a9e2e5f-a49b-448a-8169-929ec1da8674",
+        "label": "F",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cd9a3daa-8824-4c99-a709-597f4499a4a1"
+      },
+      {
+        "id": "dd2cc6f2-f496-4df1-a43f-69b1968727d0",
+        "label": "G",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cd9a3daa-8824-4c99-a709-597f4499a4a1"
+      },
+      {
+        "id": "71a46364-5f2b-4642-9d1b-a91bbbfe0198",
+        "label": "H",
+        "content": "",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cd9a3daa-8824-4c99-a709-597f4499a4a1"
+      }
+    ]
+  }
+]

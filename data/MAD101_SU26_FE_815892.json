@@ -1,0 +1,2566 @@
+[
+  {
+    "id": "ef08e322-cd68-41fa-9f29-7a1e5dc7a0ec",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 1,
+    "content": "How many comparisons are needed to merge two ordered lists: $[2, 3, 5, 6]$ and $[1, 4]$ to an increasingly ordered list?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:24.108539+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "e634863e-ea55-43cf-b50d-502362604094",
+        "label": "A",
+        "content": "$4$",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "ef08e322-cd68-41fa-9f29-7a1e5dc7a0ec"
+      },
+      {
+        "id": "cbf9a569-5b89-4aad-8f1f-5dc50443c914",
+        "label": "B",
+        "content": "$5$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "ef08e322-cd68-41fa-9f29-7a1e5dc7a0ec"
+      },
+      {
+        "id": "02411f61-06b6-4b00-8e4e-0349019aec9d",
+        "label": "C",
+        "content": "$3$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "ef08e322-cd68-41fa-9f29-7a1e5dc7a0ec"
+      },
+      {
+        "id": "84542f6e-a8d2-428a-be36-3141302f888e",
+        "label": "D",
+        "content": "$6$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "ef08e322-cd68-41fa-9f29-7a1e5dc7a0ec"
+      }
+    ]
+  },
+  {
+    "id": "0ca54613-a8b5-4542-95c6-7d69c51063b0",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 2,
+    "content": "Choose a tuple of values of $p, q, r$ such that the proposition $(p \\to q) \\land r$ is True.",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:24.671922+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "bc5b6349-4f0a-4ad1-ab3d-71559022d521",
+        "label": "A",
+        "content": "$p=T, q=F, r=T$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0ca54613-a8b5-4542-95c6-7d69c51063b0"
+      },
+      {
+        "id": "6620327a-7cad-41bc-a20c-aa0532a00832",
+        "label": "B",
+        "content": "$p=q=r=F$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0ca54613-a8b5-4542-95c6-7d69c51063b0"
+      },
+      {
+        "id": "1af255ff-2181-47f6-9c4a-80b1516f857e",
+        "label": "C",
+        "content": "$p=F, q=T, r=F$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0ca54613-a8b5-4542-95c6-7d69c51063b0"
+      },
+      {
+        "id": "698507d0-b298-4a08-93df-a3398e26c734",
+        "label": "D",
+        "content": "$p=F, q=F, r=T$",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "0ca54613-a8b5-4542-95c6-7d69c51063b0"
+      },
+      {
+        "id": "c66e0352-68c8-4f74-a56b-f26089f02376",
+        "label": "E",
+        "content": "None of the mentioned",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0ca54613-a8b5-4542-95c6-7d69c51063b0"
+      }
+    ]
+  },
+  {
+    "id": "ea0927ae-d66c-45fe-8fa1-13f1a701a56f",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 3,
+    "content": "Given the propositions\\n\\n$p = \\text{\"Tom washed the car\"}$ and\\n$q = \\text{\"Tom went to mercantile\".}$\\n\\nExpress the following sentence into a logical expression:\\n\\n\"Tom neither washed the car nor went to mercantile\".\n(i) $\\neg(p \\lor q)$\n(ii) $\\neg(p \\land q)$\n(iii) $\\neg p \\lor q$\n(iv) $p \\lor \\neg q$",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:25.169189+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "591d39dc-9be2-42cb-aac1-cd5b040603c4",
+        "label": "A",
+        "content": "(i)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "ea0927ae-d66c-45fe-8fa1-13f1a701a56f"
+      },
+      {
+        "id": "a66caeb4-165b-46bd-a90a-1730076a1a70",
+        "label": "B",
+        "content": "(ii)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "ea0927ae-d66c-45fe-8fa1-13f1a701a56f"
+      },
+      {
+        "id": "a73c7814-8285-41d4-ad69-37d84a2b05d1",
+        "label": "C",
+        "content": "(iii)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "ea0927ae-d66c-45fe-8fa1-13f1a701a56f"
+      },
+      {
+        "id": "ab45f058-5545-4f8d-9c86-c4bb6fa67335",
+        "label": "D",
+        "content": "(iv)",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "ea0927ae-d66c-45fe-8fa1-13f1a701a56f"
+      }
+    ]
+  },
+  {
+    "id": "dc101afd-b606-42f8-a6ea-7016b4aa9c31",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 4,
+    "content": "Which of the following is a tautology?\n(i) $(p \\land q) \\to (p \\to q)$\n(ii) $(p \\lor q) \\to (p \\to q)$",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:25.695692+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "f0d600fe-1fe5-4103-9e52-ff60621c8028",
+        "label": "A",
+        "content": "Both (i) and (ii)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "dc101afd-b606-42f8-a6ea-7016b4aa9c31"
+      },
+      {
+        "id": "34a137b8-894e-4a1c-988e-5de1500248ba",
+        "label": "B",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "dc101afd-b606-42f8-a6ea-7016b4aa9c31"
+      },
+      {
+        "id": "ed6e1948-b7a6-4b20-9399-766dce4cb054",
+        "label": "C",
+        "content": "(i)",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "dc101afd-b606-42f8-a6ea-7016b4aa9c31"
+      },
+      {
+        "id": "7a4cc2eb-9ec7-4f75-bf18-1db28ae0d143",
+        "label": "D",
+        "content": "(ii)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "dc101afd-b606-42f8-a6ea-7016b4aa9c31"
+      }
+    ]
+  },
+  {
+    "id": "bb6c3677-10f2-48eb-a150-70479dcdc165",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 5,
+    "content": "Let $C(x)$ be the statement \"$x$ is a student in your school\", $P(x)$ the statement \"$x$ plays badminton\", $J(x)$ the statement \"$x$ knows the computer language Java.\". The domain for quantifiers consists of all people.\\nExpress the sentence \"Some students at your school either play badminton or know Java, or both.\" in terms of $C(x)$, $P(x)$, $J(x)$, quantifiers, and logical connectives.\n(i) $\\exists x (C(x) \\land (P(x) \\lor J(x)))$\n(ii) $\\exists x (C(x) \\to (P(x) \\lor J(x)))$\n(iii) $\\exists x (C(x) \\to (P(x) \\oplus J(x)))$\n(iv) $\\exists x (C(x) \\land (P(x) \\oplus J(x)))$",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:26.208794+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "c3a16ddb-e283-4c8e-aa64-ad2e624c7b74",
+        "label": "A",
+        "content": "(i)",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "bb6c3677-10f2-48eb-a150-70479dcdc165"
+      },
+      {
+        "id": "94602a13-35ed-4182-907a-3b0726e19bfa",
+        "label": "B",
+        "content": "(ii)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bb6c3677-10f2-48eb-a150-70479dcdc165"
+      },
+      {
+        "id": "d82f712c-bbbf-4241-8226-7d5c204748d8",
+        "label": "C",
+        "content": "(iii)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bb6c3677-10f2-48eb-a150-70479dcdc165"
+      },
+      {
+        "id": "27798cd7-a52b-4ac6-b7cf-e01a37ac1b38",
+        "label": "D",
+        "content": "(iv)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "bb6c3677-10f2-48eb-a150-70479dcdc165"
+      }
+    ]
+  },
+  {
+    "id": "6d7c9e53-6611-4b5b-8d73-c01e2d8bf21f",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 6,
+    "content": "Which statements are False over the domain of positive integers?\n(i) $\\forall x (x^2 > x)$\n(ii) $\\exists x (x^2 \\ge x)$\n(iii) $\\forall x (|x| > 0)$",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:26.696324+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "ecc115cf-c987-4e63-9a15-83c1ce670f86",
+        "label": "A",
+        "content": "Only (i)",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "6d7c9e53-6611-4b5b-8d73-c01e2d8bf21f"
+      },
+      {
+        "id": "4d16b3c9-9ff8-4ca7-9716-f96a5a13b8fb",
+        "label": "B",
+        "content": "Only (ii)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6d7c9e53-6611-4b5b-8d73-c01e2d8bf21f"
+      },
+      {
+        "id": "16ce0465-3d0b-476f-9daa-5cbf26a6a354",
+        "label": "C",
+        "content": "Only (iii)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6d7c9e53-6611-4b5b-8d73-c01e2d8bf21f"
+      },
+      {
+        "id": "cb0bf847-b84c-48bc-b63f-424b968416fa",
+        "label": "D",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6d7c9e53-6611-4b5b-8d73-c01e2d8bf21f"
+      }
+    ]
+  },
+  {
+    "id": "5c5bc10f-d91e-4ad6-bd4f-0728b10710ee",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 7,
+    "content": "Let $F(x, y)$ be the statement \"$x$ can fool $y$\" where the domain consists of all people in the world.\\nTranslate the sentence into a logical expression\\n\\n\"There is exactly one person whom everybody can fool.\"\n(i) $\\exists y \\forall x F(x, y)$\n(ii) $\\forall y \\exists x F(x, y)$\n(iii) $\\exists y (\\forall x F(x, y) \\land \\forall z (\\forall x F(x, z) \\to y = z))$\n(iv) $\\exists y (\\forall x F(x, y) \\land \\exists z (\\forall x F(x, z) \\to y = z))$",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:27.183906+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "52a85fcc-36ae-412f-b5b6-7932d983e076",
+        "label": "A",
+        "content": "(i)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5c5bc10f-d91e-4ad6-bd4f-0728b10710ee"
+      },
+      {
+        "id": "496a3b25-d4e6-492f-bfc7-f77cd8856add",
+        "label": "B",
+        "content": "(ii)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5c5bc10f-d91e-4ad6-bd4f-0728b10710ee"
+      },
+      {
+        "id": "b648134e-525f-4e81-81c7-394432a9b16d",
+        "label": "C",
+        "content": "(iii)",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "5c5bc10f-d91e-4ad6-bd4f-0728b10710ee"
+      },
+      {
+        "id": "c9016de7-8b35-4667-ba63-ac0c262d316b",
+        "label": "D",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5c5bc10f-d91e-4ad6-bd4f-0728b10710ee"
+      },
+      {
+        "id": "a13b88f3-8741-4a89-9ad4-080e36d9422f",
+        "label": "E",
+        "content": "(iv)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5c5bc10f-d91e-4ad6-bd4f-0728b10710ee"
+      }
+    ]
+  },
+  {
+    "id": "167241af-034e-4741-a6f1-f86550b8e894",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 8,
+    "content": "Let $P(x) = \\text{\"$x$ is a student\"}$ and $Q(x, y) = \\text{\"$x$ knows the programming language $y$\"}$. Translate the sentence into a logical expression: \\n\\n\"Every student knows some programming language\"\n(i) $\\forall y \\exists x (P(x) \\to Q(x, y))$\n(ii) $\\forall x \\exists y (P(x) \\to Q(x, y))$\n(iii) $\\forall x \\exists y (P(x) \\land Q(x, y))$\n(iv) $\\forall y \\exists x (P(x) \\land Q(x, y))$",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:27.925667+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "23592f26-dd74-4b3e-a6eb-0516bfbfa9f5",
+        "label": "A",
+        "content": "(iii)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "167241af-034e-4741-a6f1-f86550b8e894"
+      },
+      {
+        "id": "9690244c-20c4-4059-bcac-e26e30355fe2",
+        "label": "B",
+        "content": "(i)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "167241af-034e-4741-a6f1-f86550b8e894"
+      },
+      {
+        "id": "676eafe4-9bd4-4f49-87aa-882ba09b864e",
+        "label": "C",
+        "content": "(ii)",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "167241af-034e-4741-a6f1-f86550b8e894"
+      },
+      {
+        "id": "c0a4a5fd-c631-458f-94a1-0d71cd10c4e4",
+        "label": "D",
+        "content": "(iv)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "167241af-034e-4741-a6f1-f86550b8e894"
+      },
+      {
+        "id": "e7b1f8a5-41f6-432d-a28e-f431328c4021",
+        "label": "E",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "167241af-034e-4741-a6f1-f86550b8e894"
+      }
+    ]
+  },
+  {
+    "id": "a4e3309f-df62-438c-93ad-85ef52226737",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 9,
+    "content": "Consider the argument with the hypotheses:\\n\\n\" I will be happy if your project succeeds.\\nYour project can become successful only if you change the method.\"\\n\\nand the conclusion:\\n\\n\" Therefore, if you change the method, then I will be very happy.\"\\n\\nChoose the right answer.",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:28.4283+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "60a6185e-8f6d-4a80-b6b7-4a79ce14025a",
+        "label": "A",
+        "content": "The argument is valid using hypothetical syllogism",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a4e3309f-df62-438c-93ad-85ef52226737"
+      },
+      {
+        "id": "0d00a1ca-6a5f-450a-891e-68108d392029",
+        "label": "B",
+        "content": "The argument is invalid",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "a4e3309f-df62-438c-93ad-85ef52226737"
+      },
+      {
+        "id": "a5732a99-0899-4268-b1e1-b63bddc42689",
+        "label": "C",
+        "content": "The argument is valid using modus tollens",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a4e3309f-df62-438c-93ad-85ef52226737"
+      },
+      {
+        "id": "716df640-3d88-4dc2-a9b4-55d3ed25095c",
+        "label": "D",
+        "content": "The argument is valid using simplification",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a4e3309f-df62-438c-93ad-85ef52226737"
+      },
+      {
+        "id": "80994485-a552-42ae-903a-fd42a7c5828e",
+        "label": "E",
+        "content": "The argument is valid using modus ponens",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a4e3309f-df62-438c-93ad-85ef52226737"
+      }
+    ]
+  },
+  {
+    "id": "d4d2d252-adf2-45cf-b738-527706f8492a",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 10,
+    "content": "Which set has the most number of elements?\n(i) \\{x \\mid x \\text{ is an even integer and } |x| < 11\\}\n(ii) \\{x \\mid x \\text{ is an odd integer and } |x| < 11\\}\n(iii) \\{x \\mid x \\text{ is a prime number and } x < 30\\}",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:28.897694+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "f1b46d7d-a3e8-453d-9fb3-399394421973",
+        "label": "A",
+        "content": "(i)",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "d4d2d252-adf2-45cf-b738-527706f8492a"
+      },
+      {
+        "id": "196e1d63-7642-4fb9-be63-8180c92fc9cc",
+        "label": "B",
+        "content": "(ii)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "d4d2d252-adf2-45cf-b738-527706f8492a"
+      },
+      {
+        "id": "45d06887-8477-4dee-b914-6e8493410aa6",
+        "label": "C",
+        "content": "(iii)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "d4d2d252-adf2-45cf-b738-527706f8492a"
+      }
+    ]
+  },
+  {
+    "id": "d73ff7b7-2f70-4dad-8c4e-f8394dd7d63a",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 11,
+    "content": "Let $A, B$ be sets such that $|B| = |A| + 1$. Assume that the set $A \\times B$ has $90$ elements. Find $|A|$.",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:29.36484+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "0ae998bf-8593-4a3f-804a-8c645af9e07e",
+        "label": "A",
+        "content": "$9$",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "d73ff7b7-2f70-4dad-8c4e-f8394dd7d63a"
+      },
+      {
+        "id": "cac229ec-ed7a-4979-b530-5f70a7263af8",
+        "label": "B",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "d73ff7b7-2f70-4dad-8c4e-f8394dd7d63a"
+      },
+      {
+        "id": "93f78ff1-5ace-4e8c-aad8-52b6370110ce",
+        "label": "C",
+        "content": "$8$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "d73ff7b7-2f70-4dad-8c4e-f8394dd7d63a"
+      },
+      {
+        "id": "93ecebc0-2b1b-4e06-9da1-044052c0e7d7",
+        "label": "D",
+        "content": "$10$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "d73ff7b7-2f70-4dad-8c4e-f8394dd7d63a"
+      },
+      {
+        "id": "76f4d97d-eb3e-40bf-aa92-82a6b15411d5",
+        "label": "E",
+        "content": "$12$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "d73ff7b7-2f70-4dad-8c4e-f8394dd7d63a"
+      }
+    ]
+  },
+  {
+    "id": "1219dc51-03b5-4709-b5c9-e091c7aa1fc5",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 12,
+    "content": "Find the sets $A$ and $B$ if $A - B = \\{1, 4, 5, 8\\}$, $B - A = \\{2, 7, 10\\}$, and $A \\cap B = \\{3, 9\\}$.",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:29.839448+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "22746dc8-58f9-43ed-8ac0-41f67c4894ca",
+        "label": "A",
+        "content": "$A = \\{1, 4, 5, 8\\}, B = \\{2, 7, 10\\}$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "1219dc51-03b5-4709-b5c9-e091c7aa1fc5"
+      },
+      {
+        "id": "f370522a-10d7-4668-bb59-796eddeaf393",
+        "label": "B",
+        "content": "$A = \\{2, 7, 10\\}, B = \\{1, 4, 5, 8\\}$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "1219dc51-03b5-4709-b5c9-e091c7aa1fc5"
+      },
+      {
+        "id": "1891f054-5a77-4a9f-bc9e-6179f188ae1a",
+        "label": "C",
+        "content": "$A = \\{1, 2, 4, 5, 7, 8, 10\\}, B = \\{2, 3, 7, 9, 10\\}$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "1219dc51-03b5-4709-b5c9-e091c7aa1fc5"
+      },
+      {
+        "id": "88c3e533-c68b-414f-99be-0dd44ae3dbf9",
+        "label": "D",
+        "content": "$A = \\{1, 3, 4, 5, 8, 9\\}, B = \\{2, 3, 7, 9, 10\\}$",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "1219dc51-03b5-4709-b5c9-e091c7aa1fc5"
+      },
+      {
+        "id": "aea67dc2-2adf-4d79-b75e-879a276e0a9c",
+        "label": "E",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "1219dc51-03b5-4709-b5c9-e091c7aa1fc5"
+      }
+    ]
+  },
+  {
+    "id": "99847108-02e6-4287-978f-c75f11c3abe7",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 13,
+    "content": "Let $f: \\mathbb{Z} \\to \\mathbb{N}$ be the function defined as follows \\n$$f(n) = \\begin{cases}-2n, & n \\le 0 \\\\ 2n+1, & n > 0\\end{cases}$$ \\nChoose the correct answer.",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:30.315147+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "3242aa25-d3f0-4db9-bae8-2ddbbd9ae43b",
+        "label": "A",
+        "content": "$f$ is one-to-one but not onto.",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "99847108-02e6-4287-978f-c75f11c3abe7"
+      },
+      {
+        "id": "be39d5d1-8f2a-4791-a90b-7bf8922fb65a",
+        "label": "B",
+        "content": "$f$ is onto but not one-to-one.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "99847108-02e6-4287-978f-c75f11c3abe7"
+      },
+      {
+        "id": "f6aa2df8-7651-48dc-87f7-bfbac419a59f",
+        "label": "C",
+        "content": "$f$ is both one-to-one and onto.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "99847108-02e6-4287-978f-c75f11c3abe7"
+      },
+      {
+        "id": "3dd805ad-9943-4f34-a5d9-e62aca164c72",
+        "label": "D",
+        "content": "$f$ is neither one-to-one nor onto.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "99847108-02e6-4287-978f-c75f11c3abe7"
+      }
+    ]
+  },
+  {
+    "id": "cc464b19-6cc7-4a39-9acc-48d06dc3d037",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 14,
+    "content": "Let $\\mathbb{N} = \\{0, 1, 2, \\dots\\}$. Let $f, g$ be two functions from $\\mathbb{N}$ to $\\mathbb{N}$ with $f(x) = x^2 + 1$ and $g(x) = x + 1$. Which functions are one-to-one?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:30.782838+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "4fce377f-d24e-46ba-9e92-8bcb10111443",
+        "label": "A",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cc464b19-6cc7-4a39-9acc-48d06dc3d037"
+      },
+      {
+        "id": "be36ba38-f015-48df-89f0-6849a922293c",
+        "label": "B",
+        "content": "$g$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cc464b19-6cc7-4a39-9acc-48d06dc3d037"
+      },
+      {
+        "id": "2ae82e8c-0d6d-4174-8cd1-767f9f69439f",
+        "label": "C",
+        "content": "$f$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cc464b19-6cc7-4a39-9acc-48d06dc3d037"
+      },
+      {
+        "id": "a8770fe5-b459-4cd1-b854-e9c100ee4c52",
+        "label": "D",
+        "content": "$f$ and $g$",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "cc464b19-6cc7-4a39-9acc-48d06dc3d037"
+      }
+    ]
+  },
+  {
+    "id": "ec82e0eb-6965-4396-a12c-268691173a84",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 15,
+    "content": "Find $\\sum_{i=1}^{100} (-1)^i i$",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:31.234246+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "30226261-74a7-4b55-9e24-c3f671468c14",
+        "label": "A",
+        "content": "100",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "ec82e0eb-6965-4396-a12c-268691173a84"
+      },
+      {
+        "id": "411ba174-b2d2-4b46-8b7b-5f1291a84ba3",
+        "label": "B",
+        "content": "5050",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "ec82e0eb-6965-4396-a12c-268691173a84"
+      },
+      {
+        "id": "0bdc067d-db10-4bbd-baf0-e5da08217a55",
+        "label": "C",
+        "content": "50",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "ec82e0eb-6965-4396-a12c-268691173a84"
+      },
+      {
+        "id": "9ee8a5d6-c36e-419c-9f77-bc76786f2bc6",
+        "label": "D",
+        "content": "0",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "ec82e0eb-6965-4396-a12c-268691173a84"
+      }
+    ]
+  },
+  {
+    "id": "cc50caf9-78fc-405f-b9d4-5b2e4f644d2d",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 16,
+    "content": "What is the output of the algorithm?\\nprocedure $\\text{tt}(a_1, a_2, \\dots, a_n: \\text{integers})$\\n\\n$d := 0$\\nFor $i := 1$ to $n$ do\\n\\quad if $a_i < 0$ then $d := d + 1$\\nPrint($d$)",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:31.725831+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "e5402bc3-b28c-43c3-98e8-d3a257629db5",
+        "label": "A",
+        "content": "The number of elements in a list of integers",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cc50caf9-78fc-405f-b9d4-5b2e4f644d2d"
+      },
+      {
+        "id": "2ff35962-e7f3-474a-bc4a-7e18d4cba5c1",
+        "label": "B",
+        "content": "The sum of all negative elements in a list of integers",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cc50caf9-78fc-405f-b9d4-5b2e4f644d2d"
+      },
+      {
+        "id": "96c440a5-b5ef-473e-ba36-1736511f1b7b",
+        "label": "C",
+        "content": "The number of negative elements in a list of integers",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "cc50caf9-78fc-405f-b9d4-5b2e4f644d2d"
+      },
+      {
+        "id": "1f81ae94-ef33-4d77-97b1-1024aaf2fa7b",
+        "label": "D",
+        "content": "The sum of all numbers in a list of integers",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cc50caf9-78fc-405f-b9d4-5b2e4f644d2d"
+      },
+      {
+        "id": "dfe8c45a-a048-48c0-9b5d-255263e0ceb7",
+        "label": "E",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cc50caf9-78fc-405f-b9d4-5b2e4f644d2d"
+      }
+    ]
+  },
+  {
+    "id": "6eaf9caf-ffcb-4fbe-8941-496d3efbda4c",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 17,
+    "content": "Given the Insertion sort algorithm (See picture)\\n\\nIf input = $7, 2, 4, 3, 1, 6, 5$, after running the outer loop with $i = 5$, the order of the elements in the list is____________________",
+    "image_url": "images/su26_fe_815892_q17.jpg",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:32.184468+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "0e1dc9ac-7638-45d0-90b0-d208c5c6e507",
+        "label": "A",
+        "content": "$1, 2, 3, 4, 7, 6, 5$",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "6eaf9caf-ffcb-4fbe-8941-496d3efbda4c"
+      },
+      {
+        "id": "6e0b6b58-8efa-42fc-add4-07d3d6a56fdb",
+        "label": "B",
+        "content": "$2, 3, 4, 7, 1, 6, 5$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6eaf9caf-ffcb-4fbe-8941-496d3efbda4c"
+      },
+      {
+        "id": "9e31ab19-5d0d-4942-9987-5c7bd3ac6605",
+        "label": "C",
+        "content": "$2, 4, 7, 3, 1, 6, 5$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6eaf9caf-ffcb-4fbe-8941-496d3efbda4c"
+      },
+      {
+        "id": "1c1d61e4-4b1f-4a6d-b496-0ff1fc7255ae",
+        "label": "D",
+        "content": "$1, 2, 3, 4, 5, 6, 7$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6eaf9caf-ffcb-4fbe-8941-496d3efbda4c"
+      }
+    ]
+  },
+  {
+    "id": "cdbcc952-2a94-4926-b410-9a292338e744",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 18,
+    "content": "Find the least integer $n$ such that $f(x) = O(x^n)$.\n$$f(x) = \\frac{(x^3 + 7x^2 + 3)^2}{(2x + 1)^2}$$",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:32.657074+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "ad64f3d5-d9b0-4d8a-a4e0-e56c0e4c0910",
+        "label": "A",
+        "content": "3",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cdbcc952-2a94-4926-b410-9a292338e744"
+      },
+      {
+        "id": "110c83c4-c13d-447e-8ef7-79af8c89671a",
+        "label": "B",
+        "content": "4",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "cdbcc952-2a94-4926-b410-9a292338e744"
+      },
+      {
+        "id": "f1ef7866-eebd-4c11-98fb-585682c3fe36",
+        "label": "C",
+        "content": "2",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cdbcc952-2a94-4926-b410-9a292338e744"
+      },
+      {
+        "id": "d5a50769-47d8-42c4-8d3b-f6555d94a740",
+        "label": "D",
+        "content": "1",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cdbcc952-2a94-4926-b410-9a292338e744"
+      },
+      {
+        "id": "102a2bed-d552-4502-8724-3fafd5bcc79c",
+        "label": "E",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cdbcc952-2a94-4926-b410-9a292338e744"
+      }
+    ]
+  },
+  {
+    "id": "aad1a603-1964-46b5-a58a-7722fcd0f5eb",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 19,
+    "content": "Given the algorithm\\nProcedure product(n: integer)\\np:=0;\\nfor i:=1 to n do\\n\\tfor j:=1 to (n+1) do\\n\\t\\tfor k:=1 to (n+2) do\\n\\t\\t\\tp:=i*j*k;\\nPrint(p)\\n\\nHow many multiplications are used if $n = 5$?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:33.125923+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "2a0fd7ff-b030-40c8-ad12-8e7598cdab13",
+        "label": "A",
+        "content": "$420$",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "aad1a603-1964-46b5-a58a-7722fcd0f5eb"
+      },
+      {
+        "id": "107cef7e-ee9a-4bd0-b549-a01fa54c92b9",
+        "label": "B",
+        "content": "$210$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "aad1a603-1964-46b5-a58a-7722fcd0f5eb"
+      },
+      {
+        "id": "c2130809-894d-44ea-8838-1190f525a3ff",
+        "label": "C",
+        "content": "$125$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "aad1a603-1964-46b5-a58a-7722fcd0f5eb"
+      },
+      {
+        "id": "268c49d6-e2e5-4968-bccb-8e87aa463e07",
+        "label": "D",
+        "content": "$250$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "aad1a603-1964-46b5-a58a-7722fcd0f5eb"
+      }
+    ]
+  },
+  {
+    "id": "3f24567a-1ae9-4295-96cd-ee83237a38d6",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 20,
+    "content": "A pseudorandom number sequence is generated as follows:\\n\\n$x_0 = 2, \\quad x_n = (3x_{n-1} + 2) \\pmod{11}$.\\n\\nFind $x_3$.",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:33.585296+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "e3d051c9-ba63-4d2f-a724-c17f6b50f006",
+        "label": "A",
+        "content": "$5$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "3f24567a-1ae9-4295-96cd-ee83237a38d6"
+      },
+      {
+        "id": "1e429c18-340a-4e48-a895-ca6def8cef31",
+        "label": "B",
+        "content": "$8$",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "3f24567a-1ae9-4295-96cd-ee83237a38d6"
+      },
+      {
+        "id": "1d074180-6d84-4568-b2ce-cf5837636cb4",
+        "label": "C",
+        "content": "$3$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "3f24567a-1ae9-4295-96cd-ee83237a38d6"
+      },
+      {
+        "id": "817f3abc-8808-47f5-aa44-adb94c163d70",
+        "label": "D",
+        "content": "$4$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "3f24567a-1ae9-4295-96cd-ee83237a38d6"
+      },
+      {
+        "id": "26a6f3fc-cb71-4e1c-83e9-974676deb10e",
+        "label": "E",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "3f24567a-1ae9-4295-96cd-ee83237a38d6"
+      }
+    ]
+  },
+  {
+    "id": "a46795f6-6e8a-49fa-95e1-9b576161783e",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 21,
+    "content": "Let $\\{x_n\\}$ be a sequence of pseudorandom numbers such that $x_{n+1} = 3x_n \\pmod{11}$ for $n > 0$. Suppose $x_3 = 7$. Find $x_2$ and $x_4$.",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:34.166308+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "aed71e05-2fb0-4c26-935f-b8714db603da",
+        "label": "A",
+        "content": "6 and 10",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "a46795f6-6e8a-49fa-95e1-9b576161783e"
+      },
+      {
+        "id": "b5abe48f-818b-4419-a302-e04d99c77c29",
+        "label": "B",
+        "content": "6 and 21",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a46795f6-6e8a-49fa-95e1-9b576161783e"
+      },
+      {
+        "id": "908af7f8-e41d-4aad-94b3-fbe505adceda",
+        "label": "C",
+        "content": "2 and 10",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a46795f6-6e8a-49fa-95e1-9b576161783e"
+      },
+      {
+        "id": "95a087e0-e4a5-4baa-bfe4-5721c942f792",
+        "label": "D",
+        "content": "3 and 10",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a46795f6-6e8a-49fa-95e1-9b576161783e"
+      },
+      {
+        "id": "97079eaa-092f-425f-848e-7315b264c783",
+        "label": "E",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a46795f6-6e8a-49fa-95e1-9b576161783e"
+      }
+    ]
+  },
+  {
+    "id": "cbd5d825-be6f-47c9-aeb8-824cfa2d7af7",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 22,
+    "content": "Let $m = 7^5 \\ 11^{12} \\ 13^{90}$ and $mn = 2^4 \\ 7^8 \\ 11^{26} \\ 13^{90}$. Find $\\text{gcd}(m, n)$.\n(i) $11^4 \\ 13^{90}$\n(ii) $2^4 \\ 7^{90}$\n(iii) $11^4 \\ 7^5$\n(iv) $7^3 \\ 11^{12}$",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:34.665786+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "a9588a3e-b283-4849-9f3b-9519abcc8c95",
+        "label": "A",
+        "content": "(i)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cbd5d825-be6f-47c9-aeb8-824cfa2d7af7"
+      },
+      {
+        "id": "73c294b0-fe0a-49bf-aa8b-cc3adad8d83d",
+        "label": "B",
+        "content": "(ii)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cbd5d825-be6f-47c9-aeb8-824cfa2d7af7"
+      },
+      {
+        "id": "e0075803-c07b-4be3-8d0e-a5e425a625e5",
+        "label": "C",
+        "content": "(iii)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cbd5d825-be6f-47c9-aeb8-824cfa2d7af7"
+      },
+      {
+        "id": "9d55dacd-7317-48c1-b3ec-c3d94bb4f2ff",
+        "label": "D",
+        "content": "(iv)",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "cbd5d825-be6f-47c9-aeb8-824cfa2d7af7"
+      }
+    ]
+  },
+  {
+    "id": "6db1011e-ddb2-4a23-b90f-1f941c0b5201",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 23,
+    "content": "Let $m = 2^9 \\cdot 31^{12} \\cdot 37^{90}$ and $n = 2^9 \\cdot 17^3 \\cdot 37^{14}$. Choose the correct statements:\n(i) $\\gcd(m, n) = 2^9 \\cdot 37^{14}$\n(ii) $\\gcd(m, n) = 2^9 \\cdot 37^{90}$\n(iii) $\\text{lcm}(m, n) = 2^9 \\cdot 37^{90} \\cdot 31^{12} \\cdot 17^3$",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:35.136723+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "b56ddaf7-893b-47ae-8811-5cc774bbc7ac",
+        "label": "A",
+        "content": "(i), (ii)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6db1011e-ddb2-4a23-b90f-1f941c0b5201"
+      },
+      {
+        "id": "2a1ecbe7-3544-450e-9dae-c0ed376a6587",
+        "label": "B",
+        "content": "(ii), (iii)",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "6db1011e-ddb2-4a23-b90f-1f941c0b5201"
+      },
+      {
+        "id": "41267ffa-2b72-4bf6-a00b-94ba55b5f61b",
+        "label": "C",
+        "content": "(iii), (i)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6db1011e-ddb2-4a23-b90f-1f941c0b5201"
+      },
+      {
+        "id": "6317e331-82bc-4346-9915-e02f056a5e22",
+        "label": "D",
+        "content": "(i)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6db1011e-ddb2-4a23-b90f-1f941c0b5201"
+      },
+      {
+        "id": "8a7336cc-9b2f-467d-a693-e7f6dc99aebf",
+        "label": "E",
+        "content": "(iii)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6db1011e-ddb2-4a23-b90f-1f941c0b5201"
+      },
+      {
+        "id": "887d3202-0233-4ec6-96c6-235269f6a0c5",
+        "label": "F",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "6db1011e-ddb2-4a23-b90f-1f941c0b5201"
+      }
+    ]
+  },
+  {
+    "id": "175f96db-c1f5-4688-8901-54ce611eb447",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 24,
+    "content": "Find $11^5 \\bmod 101$.",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:35.626281+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "67b64fe8-18e2-479b-aa4a-67c214aa11e6",
+        "label": "A",
+        "content": "$57$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "175f96db-c1f5-4688-8901-54ce611eb447"
+      },
+      {
+        "id": "0f05dba2-8a1e-4d12-849c-b4dc3ab07ffc",
+        "label": "B",
+        "content": "$58$",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "175f96db-c1f5-4688-8901-54ce611eb447"
+      },
+      {
+        "id": "0245d270-8850-4107-90ea-b9d8c0fa960e",
+        "label": "C",
+        "content": "$59$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "175f96db-c1f5-4688-8901-54ce611eb447"
+      },
+      {
+        "id": "c6f30223-e533-4165-a672-1bcd90b0c61b",
+        "label": "D",
+        "content": "$60$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "175f96db-c1f5-4688-8901-54ce611eb447"
+      },
+      {
+        "id": "00297914-f346-4625-abea-6e7eacdb4b1b",
+        "label": "E",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "175f96db-c1f5-4688-8901-54ce611eb447"
+      }
+    ]
+  },
+  {
+    "id": "ae72adb7-28c3-4f97-8520-d0664fd1e39a",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 25,
+    "content": "Find the greatest common divisor of $667$ and $1189$.",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:36.104291+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "9e4e7068-3764-466f-86be-024ebf672f02",
+        "label": "A",
+        "content": "$41$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "ae72adb7-28c3-4f97-8520-d0664fd1e39a"
+      },
+      {
+        "id": "ce540ab7-3091-4fa0-8637-18f923f97443",
+        "label": "B",
+        "content": "$23$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "ae72adb7-28c3-4f97-8520-d0664fd1e39a"
+      },
+      {
+        "id": "14e2b1fd-2c58-477d-ab02-506e95e6a307",
+        "label": "C",
+        "content": "$29$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "ae72adb7-28c3-4f97-8520-d0664fd1e39a"
+      },
+      {
+        "id": "4cad2b73-8ee8-4207-a4e5-7747f74b1919",
+        "label": "D",
+        "content": "$31$",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "ae72adb7-28c3-4f97-8520-d0664fd1e39a"
+      },
+      {
+        "id": "cda25b07-ed44-4ca7-ada9-3d390dec13e5",
+        "label": "E",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "ae72adb7-28c3-4f97-8520-d0664fd1e39a"
+      }
+    ]
+  },
+  {
+    "id": "cfa3320b-5001-4e27-a3b5-1f8c391a15cd",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 26,
+    "content": "Find the correct order of the steps of the proof by induction of the following problem:\\nProblem: Prove that for all $n \\geq 12$ we have $n = 4a + 5b$ with $a, b$ non-negative integers.\\n\\nStep 1. Suppose for some $k \\geq 16$ we have $n = 4x + 5y$ with $x, y$ non-negative integers for all $n \\leq k$.\\n\\nStep 2. $n = 12$ we have $12 = 4 \\times 3 + 5 \\times 0$\\n$n = 13$ we have $13 = 4 \\times 2 + 5 \\times 1$\\n$n = 14$ we have $14 = 4 \\times 1 + 5 \\times 2$\\n$n = 15$ we have $15 = 4 \\times 0 + 5 \\times 3$\\n\\nStep 3. So for all $n \\geq 12$ we have $n = 4a + 5b$ with $a, b$ non-negative integers.\\n\\nStep 4. For $n = k + 1$ we have $k + 1 = 1 \\times 4 + (k - 3)$. Since $12 \\leq k - 3 < k$, by induction hypothesis we have $k - 3 = 4a + 5b$ for some non-negative integers $a$ and $b$. Then $k + 1 = 4(a + 1) + 5b$.",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:36.59496+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "8a853a17-b8ff-4f17-86ab-bfb2bc60cd8a",
+        "label": "A",
+        "content": "$2, 1, 4, 3$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cfa3320b-5001-4e27-a3b5-1f8c391a15cd"
+      },
+      {
+        "id": "b7e2b9be-ec1c-45f9-888c-0ca7e913263d",
+        "label": "B",
+        "content": "$1, 2, 4, 3$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cfa3320b-5001-4e27-a3b5-1f8c391a15cd"
+      },
+      {
+        "id": "3f6a8e78-c930-4422-a7c0-d01a9a1d28b7",
+        "label": "C",
+        "content": "$2, 1, 3, 4$",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "cfa3320b-5001-4e27-a3b5-1f8c391a15cd"
+      },
+      {
+        "id": "71e75f3a-73b7-4403-b109-dedf12109859",
+        "label": "D",
+        "content": "$1, 2, 3, 4$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "cfa3320b-5001-4e27-a3b5-1f8c391a15cd"
+      }
+    ]
+  },
+  {
+    "id": "76a0841e-6984-4e06-ba88-bf800b2d6b01",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 27,
+    "content": "Find a recursive relation for the sequence $\\{a_n = n^2 - n + 1\\}$.\n(i) $a_1 = 1$, $a_{n+1} = a_n + 2n + 1$, $\\quad n \\ge 1$\n(ii) $a_1 = 1$, $a_{n+1} = a_n + 2n$, $\\quad n \\ge 1$\n(iii) $a_1 = 1$, $a_{n+1} = a_n + 2n - 1$, $\\quad n \\ge 1$\n(iv) $a_1 = 1$, $a_{n+1} = a_n + 2n - 2$, $\\quad n \\ge 1$",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:37.072921+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "ed71a2f1-be7c-460d-b01e-6eaf9b779bd7",
+        "label": "A",
+        "content": "(ii)",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "76a0841e-6984-4e06-ba88-bf800b2d6b01"
+      },
+      {
+        "id": "f52b5b2b-a2df-4d07-9b55-4ea0f22843cb",
+        "label": "B",
+        "content": "(iv)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "76a0841e-6984-4e06-ba88-bf800b2d6b01"
+      },
+      {
+        "id": "7144b235-c753-4c83-9090-0e7ee6edffcb",
+        "label": "C",
+        "content": "(i)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "76a0841e-6984-4e06-ba88-bf800b2d6b01"
+      },
+      {
+        "id": "def5eaf8-50ac-4cba-ba64-a343b5423768",
+        "label": "D",
+        "content": "(iii)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "76a0841e-6984-4e06-ba88-bf800b2d6b01"
+      },
+      {
+        "id": "97445832-49ed-44ae-b991-7490e87a3b41",
+        "label": "E",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "76a0841e-6984-4e06-ba88-bf800b2d6b01"
+      }
+    ]
+  },
+  {
+    "id": "db6435bd-aa58-4485-a1f7-5aa1baf0fba7",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 28,
+    "content": "Give a recursive definition of the sequence $\\{a_n = 5n\\}, n = 1, 2, 3, \\dots$\n(i) $a_0 = 0, a_n = a_{n-1} + 5$ for $n = 1, 2, 3, \\dots$\n(ii) $a_1 = 1, a_n = a_{n-1} + 5$ for $n = 2, 3, \\dots$\n(iii) $a_1 = 5, a_{n-1} = a_n + 5$ for $n = 2, 3, \\dots$\n(iv) $a_1 = 5, a_n = a_{n-1} + 5$ for $n = 2, 3, \\dots$",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:37.561297+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "dfb5dc5a-ea71-4193-91c1-f4a0e51b1030",
+        "label": "A",
+        "content": "(i)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "db6435bd-aa58-4485-a1f7-5aa1baf0fba7"
+      },
+      {
+        "id": "02ad5e38-eee8-445f-9b2c-d78bbcd6f80f",
+        "label": "B",
+        "content": "(ii)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "db6435bd-aa58-4485-a1f7-5aa1baf0fba7"
+      },
+      {
+        "id": "8c537674-9ad7-47b3-9cca-65706b370112",
+        "label": "C",
+        "content": "(iii)",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "db6435bd-aa58-4485-a1f7-5aa1baf0fba7"
+      },
+      {
+        "id": "3f214ea1-f3f6-4be8-92c1-58fd282e7ce4",
+        "label": "D",
+        "content": "(iv)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "db6435bd-aa58-4485-a1f7-5aa1baf0fba7"
+      },
+      {
+        "id": "37b7032e-b87f-4f02-97af-7bbe4edf6030",
+        "label": "E",
+        "content": "None of the other choices",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "db6435bd-aa58-4485-a1f7-5aa1baf0fba7"
+      }
+    ]
+  },
+  {
+    "id": "d1fd1d51-7cc3-4133-91f2-d88a7b4fc7fd",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 29,
+    "content": "How many comparisons are needed to merge the two lists $1, 3, 5, 7, 8, 10$ and $2, 4, 6, 9$?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:38.032326+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "81c04d77-b3db-435f-a7e5-2f8c06378de9",
+        "label": "A",
+        "content": "6",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "d1fd1d51-7cc3-4133-91f2-d88a7b4fc7fd"
+      },
+      {
+        "id": "0eebaaa3-6051-4a5d-9025-2c5295655fe4",
+        "label": "B",
+        "content": "7",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "d1fd1d51-7cc3-4133-91f2-d88a7b4fc7fd"
+      },
+      {
+        "id": "c9106fe4-7087-47c9-9a61-3fdf8c479f5f",
+        "label": "C",
+        "content": "8",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "d1fd1d51-7cc3-4133-91f2-d88a7b4fc7fd"
+      },
+      {
+        "id": "e609bb26-59da-4b09-ac98-a9db1bdda258",
+        "label": "D",
+        "content": "9",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "d1fd1d51-7cc3-4133-91f2-d88a7b4fc7fd"
+      },
+      {
+        "id": "811b6c6a-5db2-4a50-9e05-64284152b634",
+        "label": "E",
+        "content": "10",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "d1fd1d51-7cc3-4133-91f2-d88a7b4fc7fd"
+      }
+    ]
+  },
+  {
+    "id": "37677b75-bc36-4c52-a230-65c03baf40cb",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 30,
+    "content": "How many strings of three decimal digits have exactly two digits that are $4$s?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:38.498428+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "3c09dade-4aa3-4dd6-ab76-e5a3d7ae377c",
+        "label": "A",
+        "content": "$27$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "37677b75-bc36-4c52-a230-65c03baf40cb"
+      },
+      {
+        "id": "b1cfa94b-6ad4-45a3-b7a3-2e45b4f77a3a",
+        "label": "B",
+        "content": "$28$",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "37677b75-bc36-4c52-a230-65c03baf40cb"
+      },
+      {
+        "id": "04536461-076a-42e4-b5c1-f7ba21782be5",
+        "label": "C",
+        "content": "$29$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "37677b75-bc36-4c52-a230-65c03baf40cb"
+      },
+      {
+        "id": "1b9adc92-4255-4106-85d9-4941ec7d1ef1",
+        "label": "D",
+        "content": "$30$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "37677b75-bc36-4c52-a230-65c03baf40cb"
+      }
+    ]
+  },
+  {
+    "id": "85c7bde4-78f9-440c-bcc8-15b767297ee9",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 31,
+    "content": "In a wedding, how many ways to arrange 5 people in a row, (including the bride and the groom), so that the bride stands somewhere on the right of the groom?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:38.984247+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "d5e275f6-a2a5-4e3f-9145-cbfa6bffabc9",
+        "label": "A",
+        "content": "$120$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "85c7bde4-78f9-440c-bcc8-15b767297ee9"
+      },
+      {
+        "id": "3765a3d5-3fbe-4bbd-b879-612ae77e0c77",
+        "label": "B",
+        "content": "$60$",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "85c7bde4-78f9-440c-bcc8-15b767297ee9"
+      },
+      {
+        "id": "507c8f11-87a2-45b5-9744-6d2327eec34e",
+        "label": "C",
+        "content": "$10$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "85c7bde4-78f9-440c-bcc8-15b767297ee9"
+      },
+      {
+        "id": "76635364-416f-4373-8bda-d0fa1d8683e4",
+        "label": "D",
+        "content": "$100$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "85c7bde4-78f9-440c-bcc8-15b767297ee9"
+      },
+      {
+        "id": "78b1e478-7be4-42fb-b996-869f61427846",
+        "label": "E",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "85c7bde4-78f9-440c-bcc8-15b767297ee9"
+      }
+    ]
+  },
+  {
+    "id": "38c34750-72f8-4225-a6d5-51901f335778",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 32,
+    "content": "Let $a_n$ be the number of ways to score exactly $n$ points in a game (for $n \\ge 3$) if a player can score $1$, $2$, or $3$ points in a single move. Which of the following recurrence relations can be used to determine $a_n$, given the appropriate initial conditions?\n(i) $a_n = a_{n-1} + a_{n-3}$\n(ii) $a_n = 2a_{n-1} + a_{n-2}$\n(iii) $a_n = a_{n-1} + 2a_{n-2} + 3a_{n-3}$\n(iv) $a_n = a_{n-1} + a_{n-2} + a_{n-3}$\n(v) $a_n = a_{n-1} + 2a_{n-2} + a_{n-3}$",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:39.450516+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "952cd284-ea7c-4aa4-8340-616c32f84cf0",
+        "label": "A",
+        "content": "(i)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "38c34750-72f8-4225-a6d5-51901f335778"
+      },
+      {
+        "id": "29771ff7-d32c-435f-a67d-b26217ca513c",
+        "label": "B",
+        "content": "(ii)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "38c34750-72f8-4225-a6d5-51901f335778"
+      },
+      {
+        "id": "d94f17af-e4b3-4f9b-ba32-3586cc63ca5b",
+        "label": "C",
+        "content": "(iii)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "38c34750-72f8-4225-a6d5-51901f335778"
+      },
+      {
+        "id": "3d017644-4d10-4cb4-9c51-92f7542da745",
+        "label": "D",
+        "content": "(iv)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "38c34750-72f8-4225-a6d5-51901f335778"
+      },
+      {
+        "id": "5c2370bc-3b43-4e4a-88ca-8d48f70dfc9c",
+        "label": "E",
+        "content": "(v)",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "38c34750-72f8-4225-a6d5-51901f335778"
+      }
+    ]
+  },
+  {
+    "id": "0c51bc80-f24c-4ad6-b1f5-bdf067ee7619",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 33,
+    "content": "Find $f(25)$ if $f(1) = 3$ and $f(n) = f(n/5) + n^2/3$.",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:39.939854+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "64bb2c0a-3fe7-4593-8b30-572019a02a7f",
+        "label": "A",
+        "content": "$784/3$",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "0c51bc80-f24c-4ad6-b1f5-bdf067ee7619"
+      },
+      {
+        "id": "4b8a7848-292e-4abd-ae68-d07a67fe17da",
+        "label": "B",
+        "content": "$659/3$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0c51bc80-f24c-4ad6-b1f5-bdf067ee7619"
+      },
+      {
+        "id": "c98ec6ef-0801-48da-aab5-a9a639dbfb40",
+        "label": "C",
+        "content": "$34/3$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0c51bc80-f24c-4ad6-b1f5-bdf067ee7619"
+      },
+      {
+        "id": "d5e14b51-d28d-4646-a3bd-5689c481a903",
+        "label": "D",
+        "content": "$3$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0c51bc80-f24c-4ad6-b1f5-bdf067ee7619"
+      },
+      {
+        "id": "fffa432f-8f7e-4840-b177-a0e8a309705a",
+        "label": "E",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0c51bc80-f24c-4ad6-b1f5-bdf067ee7619"
+      }
+    ]
+  },
+  {
+    "id": "c3337ba7-067e-428a-802c-7dedf4ea6730",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 34,
+    "content": "Which of the following graphs is (are) bipartite?",
+    "image_url": "images/su26_fe_815892_q34.jpg",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:40.402545+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "586218c2-3a42-4605-8ff2-3ab18a710ad1",
+        "label": "A",
+        "content": "$H$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c3337ba7-067e-428a-802c-7dedf4ea6730"
+      },
+      {
+        "id": "79edaaf8-4bc2-4951-8763-c1d202862975",
+        "label": "B",
+        "content": "Both $G$ and $H$.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c3337ba7-067e-428a-802c-7dedf4ea6730"
+      },
+      {
+        "id": "87d3a6cb-473b-43c5-974d-dfe648740ec2",
+        "label": "C",
+        "content": "$G$",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "c3337ba7-067e-428a-802c-7dedf4ea6730"
+      },
+      {
+        "id": "3fd08203-c5ec-4040-86c9-3b037e98ad26",
+        "label": "D",
+        "content": "Neither $G$ nor $H$.",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "c3337ba7-067e-428a-802c-7dedf4ea6730"
+      }
+    ]
+  },
+  {
+    "id": "678588f7-0bbb-4bd1-b735-4ba61393d440",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 35,
+    "content": "Fill in the blank: \"The graph...has...edges\"\n(i) $C_{n}, 2n$\n(ii) $K_{m,n}, mn$\n(iii) $W_{n}, 2n + 1$\n(iv) $K_{n}, n^{2}$",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:40.866589+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "c27de575-bd09-420e-9dbc-d09a89873f58",
+        "label": "A",
+        "content": "(iv)",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "678588f7-0bbb-4bd1-b735-4ba61393d440"
+      },
+      {
+        "id": "6ed6f319-0045-4193-986c-5a7eff0fdbc6",
+        "label": "B",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "678588f7-0bbb-4bd1-b735-4ba61393d440"
+      },
+      {
+        "id": "86c4a17e-5477-4bb1-bbdf-ffbcd6b4bbad",
+        "label": "C",
+        "content": "(ii)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "678588f7-0bbb-4bd1-b735-4ba61393d440"
+      },
+      {
+        "id": "6837a754-b4ff-40e1-b626-b55af24459b1",
+        "label": "D",
+        "content": "(i)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "678588f7-0bbb-4bd1-b735-4ba61393d440"
+      },
+      {
+        "id": "8a849e80-c95d-4eb9-b017-ff78c14bd77c",
+        "label": "E",
+        "content": "(iii)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "678588f7-0bbb-4bd1-b735-4ba61393d440"
+      }
+    ]
+  },
+  {
+    "id": "e0c2c2cf-db10-4552-b5f0-05df8d7d8d78",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 36,
+    "content": "Are these two graphs isomorphic? If not, what is the reason?",
+    "image_url": "images/su26_fe_815892_q36.jpg",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:41.310796+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "1e93c02f-ec6b-4940-bf1b-4073024fd7c6",
+        "label": "A",
+        "content": "Yes, they are isomorphic",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e0c2c2cf-db10-4552-b5f0-05df8d7d8d78"
+      },
+      {
+        "id": "6eeb350a-1a2e-479c-8509-0539e91399ab",
+        "label": "B",
+        "content": "No, they are not isomorphic because they do not have the same number of edges",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e0c2c2cf-db10-4552-b5f0-05df8d7d8d78"
+      },
+      {
+        "id": "23640961-f3b2-449d-93a5-ca6c3fdbfd34",
+        "label": "C",
+        "content": "No, they are not isomorphic because they do not have the same number of vertices of degree 4",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e0c2c2cf-db10-4552-b5f0-05df8d7d8d78"
+      },
+      {
+        "id": "c1403153-e342-4b8c-b27b-3a20e75de78d",
+        "label": "D",
+        "content": "No, they are not isomorphic because they do not have the same number of simple circuits of length 3",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "e0c2c2cf-db10-4552-b5f0-05df8d7d8d78"
+      },
+      {
+        "id": "cdffcce2-74e9-47f3-8f45-426636380170",
+        "label": "E",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e0c2c2cf-db10-4552-b5f0-05df8d7d8d78"
+      }
+    ]
+  },
+  {
+    "id": "45791bff-23d3-4237-8199-89adc4e94eee",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 37,
+    "content": "Are these two graphs isomorphic? If not, what is the reason?",
+    "image_url": "images/su26_fe_815892_q37.jpg",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:41.762991+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "2c73671a-f145-4822-b2f9-ab77cc88983a",
+        "label": "A",
+        "content": "No, they are not isomorphic because they do not have the same number of connected components",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "45791bff-23d3-4237-8199-89adc4e94eee"
+      },
+      {
+        "id": "7f186b7f-14b2-4d27-9fb8-bb60a92bda47",
+        "label": "B",
+        "content": "No, they are not isomorphic because they do not have the same number of vertices of degree 2",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "45791bff-23d3-4237-8199-89adc4e94eee"
+      },
+      {
+        "id": "0b2a7606-097e-4a7c-8cbd-43d59d510ada",
+        "label": "C",
+        "content": "No, they are not isomorphic because they do not have the same number of edges",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "45791bff-23d3-4237-8199-89adc4e94eee"
+      },
+      {
+        "id": "8a627980-2158-4962-8f18-d5ef7bafc0b4",
+        "label": "D",
+        "content": "Yes, they are isomorphic",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "45791bff-23d3-4237-8199-89adc4e94eee"
+      },
+      {
+        "id": "c936bf67-e716-43ec-be74-d3d52830bd90",
+        "label": "E",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "45791bff-23d3-4237-8199-89adc4e94eee"
+      }
+    ]
+  },
+  {
+    "id": "e3c47c5b-1125-41b3-88d5-9b95f1aa23f3",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 38,
+    "content": "Find the TOTAL number of cut-edges in the two graphs.",
+    "image_url": "images/su26_fe_815892_q38.jpg",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:42.201442+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "2e9f7ed3-0bed-48ff-bc07-f46335427412",
+        "label": "A",
+        "content": "0",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "e3c47c5b-1125-41b3-88d5-9b95f1aa23f3"
+      },
+      {
+        "id": "4e0be2da-5867-4ed0-8fef-8e4f7fa01b5b",
+        "label": "B",
+        "content": "1",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e3c47c5b-1125-41b3-88d5-9b95f1aa23f3"
+      },
+      {
+        "id": "e7112a34-ba16-4e1a-962f-2d321ee666d7",
+        "label": "C",
+        "content": "2",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e3c47c5b-1125-41b3-88d5-9b95f1aa23f3"
+      },
+      {
+        "id": "4c5ac3ac-623b-4d97-a02a-d101ffe02fe2",
+        "label": "D",
+        "content": "3",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e3c47c5b-1125-41b3-88d5-9b95f1aa23f3"
+      },
+      {
+        "id": "87f1150e-b62f-42fe-958c-bc8164aa99af",
+        "label": "E",
+        "content": "4",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e3c47c5b-1125-41b3-88d5-9b95f1aa23f3"
+      },
+      {
+        "id": "6212d7e6-31c7-4fc8-9464-4d1120e7252b",
+        "label": "F",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e3c47c5b-1125-41b3-88d5-9b95f1aa23f3"
+      }
+    ]
+  },
+  {
+    "id": "0a2db252-eea7-4a95-bfb5-44e0b6cde348",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 39,
+    "content": "How many paths of length 3 between two different vertices in the graph $K_4$?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:42.668504+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "24e70420-8e5b-4530-9c40-895104ea191a",
+        "label": "A",
+        "content": "5",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0a2db252-eea7-4a95-bfb5-44e0b6cde348"
+      },
+      {
+        "id": "ddbe59b6-b670-4d41-9752-bda8576e79c7",
+        "label": "B",
+        "content": "9",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "0a2db252-eea7-4a95-bfb5-44e0b6cde348"
+      },
+      {
+        "id": "62a599f2-c5b4-42dd-9d0b-fe4ddf66787f",
+        "label": "C",
+        "content": "3",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0a2db252-eea7-4a95-bfb5-44e0b6cde348"
+      },
+      {
+        "id": "878e7e9b-90fa-43ec-aa41-842df48367d6",
+        "label": "D",
+        "content": "7",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0a2db252-eea7-4a95-bfb5-44e0b6cde348"
+      },
+      {
+        "id": "0a309405-809a-4c4a-a7a6-719edcdb8408",
+        "label": "E",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "0a2db252-eea7-4a95-bfb5-44e0b6cde348"
+      }
+    ]
+  },
+  {
+    "id": "b7efca6a-60fe-4823-9032-0bb23d574d68",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 40,
+    "content": "Which graphs have Euler paths?\n(i) $K_{1,2}$\n(ii) $K_2$\n(iii) $K_{2,5}$\n(iv) $Q_3$",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:43.120012+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "45aedc2d-b5a6-4a6c-87b2-970793b7fb42",
+        "label": "A",
+        "content": "(i), (ii) and (iii)",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "b7efca6a-60fe-4823-9032-0bb23d574d68"
+      },
+      {
+        "id": "1366f95f-6cf7-41e7-9c84-03440dc7354e",
+        "label": "B",
+        "content": "Only (iii)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "b7efca6a-60fe-4823-9032-0bb23d574d68"
+      },
+      {
+        "id": "2bc836a8-ad01-45a7-983e-b4ffb3878e22",
+        "label": "C",
+        "content": "Only (iv)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "b7efca6a-60fe-4823-9032-0bb23d574d68"
+      },
+      {
+        "id": "782852e6-094e-498d-813d-c4dc394f99e4",
+        "label": "D",
+        "content": "(i) and (iv)",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "b7efca6a-60fe-4823-9032-0bb23d574d68"
+      }
+    ]
+  },
+  {
+    "id": "5e6d1ddf-fdc9-4e2c-9cde-5c1f606614de",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 41,
+    "content": "What is the length of a Hamilton circuit in the graph $Q_3$?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:43.554324+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "197cda9e-2058-4204-b350-6a569278430f",
+        "label": "A",
+        "content": "$8$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5e6d1ddf-fdc9-4e2c-9cde-5c1f606614de"
+      },
+      {
+        "id": "51a49060-e36c-42dc-b1b5-91d2f64161ed",
+        "label": "B",
+        "content": "$7$",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "5e6d1ddf-fdc9-4e2c-9cde-5c1f606614de"
+      },
+      {
+        "id": "70802440-3ef9-4f74-b4de-e70af0e506d4",
+        "label": "C",
+        "content": "$12$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5e6d1ddf-fdc9-4e2c-9cde-5c1f606614de"
+      },
+      {
+        "id": "b2c5f18a-cc35-476c-9e37-38644a8877dc",
+        "label": "D",
+        "content": "$3$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "5e6d1ddf-fdc9-4e2c-9cde-5c1f606614de"
+      }
+    ]
+  },
+  {
+    "id": "be346a52-7b67-4510-902c-df9e234fdb9d",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 42,
+    "content": "What is the shortest distance between A and G?",
+    "image_url": "images/su26_fe_815892_q42.jpg",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:44.026165+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "26657e63-6f95-4f11-b432-dc417f930fb8",
+        "label": "A",
+        "content": "18",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "be346a52-7b67-4510-902c-df9e234fdb9d"
+      },
+      {
+        "id": "481b22ed-a11a-45db-b120-412e7b2eb899",
+        "label": "B",
+        "content": "19",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "be346a52-7b67-4510-902c-df9e234fdb9d"
+      },
+      {
+        "id": "4adb135c-f22c-401b-a760-b05e9d2c2e2a",
+        "label": "C",
+        "content": "20",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "be346a52-7b67-4510-902c-df9e234fdb9d"
+      },
+      {
+        "id": "514d73fb-fbbc-45b4-8d29-88e4627ecdbe",
+        "label": "D",
+        "content": "21",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "be346a52-7b67-4510-902c-df9e234fdb9d"
+      }
+    ]
+  },
+  {
+    "id": "17e1353b-834e-433a-a1a7-78744da7ab3a",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 43,
+    "content": "What is the maximum height of a full binary tree with 101 vertices?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:44.507479+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "011cac96-9da8-41a5-8b5b-d294421ff1ec",
+        "label": "A",
+        "content": "50",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "17e1353b-834e-433a-a1a7-78744da7ab3a"
+      },
+      {
+        "id": "0ec7916c-bb1c-4d1d-91be-c4cf50ff8826",
+        "label": "B",
+        "content": "100",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "17e1353b-834e-433a-a1a7-78744da7ab3a"
+      },
+      {
+        "id": "be7939df-eb71-4707-b665-98ef9fbb0347",
+        "label": "C",
+        "content": "6",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "17e1353b-834e-433a-a1a7-78744da7ab3a"
+      },
+      {
+        "id": "9218cfe8-6dc7-4274-964d-07853793c5d0",
+        "label": "D",
+        "content": "101",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "17e1353b-834e-433a-a1a7-78744da7ab3a"
+      },
+      {
+        "id": "b1e1a309-59cf-44d7-8507-303542880200",
+        "label": "E",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "17e1353b-834e-433a-a1a7-78744da7ab3a"
+      }
+    ]
+  },
+  {
+    "id": "66696717-4f1b-4bc3-930a-95654ae02c2a",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 44,
+    "content": "How many non-isomorphic trees of 4 vertices?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:45.001483+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "1bb3e55d-e966-4ed4-b30c-dcde6fd9f59a",
+        "label": "A",
+        "content": "4",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "66696717-4f1b-4bc3-930a-95654ae02c2a"
+      },
+      {
+        "id": "80236f2c-c75a-49f0-88f7-f62b7a63d755",
+        "label": "B",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "66696717-4f1b-4bc3-930a-95654ae02c2a"
+      },
+      {
+        "id": "7b982d5b-2b48-4e3f-9e3f-de9455e6be5c",
+        "label": "C",
+        "content": "3",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "66696717-4f1b-4bc3-930a-95654ae02c2a"
+      },
+      {
+        "id": "3b060840-9548-46f1-b10c-2a0b8dea2c70",
+        "label": "D",
+        "content": "2",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "66696717-4f1b-4bc3-930a-95654ae02c2a"
+      },
+      {
+        "id": "59db0a14-47f7-48e2-b61d-f41065257d5b",
+        "label": "E",
+        "content": "1",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "66696717-4f1b-4bc3-930a-95654ae02c2a"
+      }
+    ]
+  },
+  {
+    "id": "7b9d86ed-03be-4ea0-ac37-0cebddfe53c3",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 45,
+    "content": "Find the length of the bit string obtained by using Huffman coding to encode the message \"AILILI\".",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:45.499555+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "c97e443e-3260-4635-b1f5-5ce34b563c24",
+        "label": "A",
+        "content": "6",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7b9d86ed-03be-4ea0-ac37-0cebddfe53c3"
+      },
+      {
+        "id": "3f4d3785-f883-4497-9533-39fc30882fe7",
+        "label": "B",
+        "content": "12",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "7b9d86ed-03be-4ea0-ac37-0cebddfe53c3"
+      },
+      {
+        "id": "c5509e6f-c6f8-4058-a790-a59ad5901418",
+        "label": "C",
+        "content": "9",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7b9d86ed-03be-4ea0-ac37-0cebddfe53c3"
+      },
+      {
+        "id": "2f0ea944-be5a-4846-9499-0028e6897d74",
+        "label": "D",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7b9d86ed-03be-4ea0-ac37-0cebddfe53c3"
+      },
+      {
+        "id": "d01f2ca9-2a09-446c-8fe7-b1d34902b4f2",
+        "label": "E",
+        "content": "15",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "7b9d86ed-03be-4ea0-ac37-0cebddfe53c3"
+      }
+    ]
+  },
+  {
+    "id": "490f1819-02fe-425e-99a0-afee141efff6",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 46,
+    "content": "What is the height of the binary search tree of the following list? $\\{4, 11, 1, 5, 7, 9, 0, 2, 8, 13\\}$",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:45.972085+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "36830ee2-2366-4d97-b6f7-f39e977a06eb",
+        "label": "A",
+        "content": "2",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "490f1819-02fe-425e-99a0-afee141efff6"
+      },
+      {
+        "id": "419f72c3-1861-4cc7-970f-acc0c3dbea7f",
+        "label": "B",
+        "content": "3",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "490f1819-02fe-425e-99a0-afee141efff6"
+      },
+      {
+        "id": "76e3d7bc-db5e-484f-820b-443cdbba39f4",
+        "label": "C",
+        "content": "4",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "490f1819-02fe-425e-99a0-afee141efff6"
+      },
+      {
+        "id": "b335239f-c1b8-4c87-bd8d-bcf0ae84ffeb",
+        "label": "D",
+        "content": "5",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "490f1819-02fe-425e-99a0-afee141efff6"
+      },
+      {
+        "id": "d7ffdc0b-1bce-4f5b-8983-18b557f8ab24",
+        "label": "E",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "490f1819-02fe-425e-99a0-afee141efff6"
+      }
+    ]
+  },
+  {
+    "id": "fe446b7a-1257-497a-90a4-4711a85efc8d",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 47,
+    "content": "Compute the value of the postfix notation\n$567-*$",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:46.440572+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "c0c53937-fe63-44f0-871f-eaba7162409c",
+        "label": "A",
+        "content": "$5$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "fe446b7a-1257-497a-90a4-4711a85efc8d"
+      },
+      {
+        "id": "39f8dd17-9184-4b9b-a9f1-31c8ee5ad0aa",
+        "label": "B",
+        "content": "$-5$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "fe446b7a-1257-497a-90a4-4711a85efc8d"
+      },
+      {
+        "id": "f0bb7cb7-f247-4f0d-971a-33688d381ccc",
+        "label": "C",
+        "content": "$37$",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "fe446b7a-1257-497a-90a4-4711a85efc8d"
+      },
+      {
+        "id": "bd27b803-96c4-4bcd-8164-6dcc12db829d",
+        "label": "D",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "fe446b7a-1257-497a-90a4-4711a85efc8d"
+      },
+      {
+        "id": "dcf5e0ee-4989-453e-be09-e6ec7d341510",
+        "label": "E",
+        "content": "$-37$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "fe446b7a-1257-497a-90a4-4711a85efc8d"
+      }
+    ]
+  },
+  {
+    "id": "e93a8841-348f-4c5a-b8ec-d92f87053b22",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 48,
+    "content": "Find the prefix notation for the expression $a / b + (c - d) * e$",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:46.907146+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "d5c9ea0f-e66c-4ab2-b0b8-625d0ba735e3",
+        "label": "A",
+        "content": "/ a b + c d - e *",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "e93a8841-348f-4c5a-b8ec-d92f87053b22"
+      },
+      {
+        "id": "8fa42d10-4a4c-4876-b90e-389ff6995fc0",
+        "label": "B",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e93a8841-348f-4c5a-b8ec-d92f87053b22"
+      },
+      {
+        "id": "290f45e2-4190-465d-b339-3b02bc136866",
+        "label": "C",
+        "content": "+ / a b * - c d e",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e93a8841-348f-4c5a-b8ec-d92f87053b22"
+      },
+      {
+        "id": "abfc558c-5dfe-43d6-a490-bae3def69aa2",
+        "label": "D",
+        "content": "a b / c d - e * +",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "e93a8841-348f-4c5a-b8ec-d92f87053b22"
+      }
+    ]
+  },
+  {
+    "id": "b7cf6b3a-a68a-41c4-8544-935815329655",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 49,
+    "content": "What is the height of the spanning tree obtained from the complete bipartite graph $K_{4,3}$ by depth-first search, starting at a vertex of degree $4$?",
+    "image_url": null,
+    "type": "text",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:47.375266+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "26c181d5-2e8a-46af-8a0e-2450960fb8a8",
+        "label": "A",
+        "content": "$4$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "b7cf6b3a-a68a-41c4-8544-935815329655"
+      },
+      {
+        "id": "44cc7211-7785-41b6-bd87-f3ed40ab01d3",
+        "label": "B",
+        "content": "$3$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "b7cf6b3a-a68a-41c4-8544-935815329655"
+      },
+      {
+        "id": "53c57b83-7b3e-413f-8629-bafe2b2e6c92",
+        "label": "C",
+        "content": "$1$",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "b7cf6b3a-a68a-41c4-8544-935815329655"
+      },
+      {
+        "id": "2789f44b-4a99-4887-b247-f0cd29857e4f",
+        "label": "D",
+        "content": "$5$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "b7cf6b3a-a68a-41c4-8544-935815329655"
+      },
+      {
+        "id": "ccdd39ec-333a-478c-91d2-064015212555",
+        "label": "E",
+        "content": "None of the other choices",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "b7cf6b3a-a68a-41c4-8544-935815329655"
+      },
+      {
+        "id": "5c0a45b6-ea87-4392-b247-f8a57d60ca0b",
+        "label": "F",
+        "content": "$2$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "b7cf6b3a-a68a-41c4-8544-935815329655"
+      }
+    ]
+  },
+  {
+    "id": "a5d93dfa-74b9-494b-9987-a9161bd0b6de",
+    "exam_id": "2c514f63-3032-4c5e-b49d-d255253e701d",
+    "order_num": 50,
+    "content": "What is the total weight of a minimal spanning tree of the graph?",
+    "image_url": "images/su26_fe_815892_q50.jpg",
+    "type": "image",
+    "chapter_name": "Tổng hợp",
+    "extra_images": [],
+    "created_at": "2026-09-13T08:03:47.841514+00:00",
+    "explanation": null,
+    "question_options": [
+      {
+        "id": "d82a42af-fcb6-4bfb-8d70-550da34d19cc",
+        "label": "A",
+        "content": "$14$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a5d93dfa-74b9-494b-9987-a9161bd0b6de"
+      },
+      {
+        "id": "13b7c96c-2d5b-44d9-bf88-2de549be8a82",
+        "label": "B",
+        "content": "$13$",
+        "image_url": null,
+        "is_correct": true,
+        "question_id": "a5d93dfa-74b9-494b-9987-a9161bd0b6de"
+      },
+      {
+        "id": "4ab44552-49a7-4f69-b2e5-eb1a218761b0",
+        "label": "C",
+        "content": "$15$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a5d93dfa-74b9-494b-9987-a9161bd0b6de"
+      },
+      {
+        "id": "c0f2d2d2-5a85-4bd8-9ab2-80b3b9269ba2",
+        "label": "D",
+        "content": "$12$",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a5d93dfa-74b9-494b-9987-a9161bd0b6de"
+      },
+      {
+        "id": "08dbfeb3-2208-4abe-b11e-cca877704027",
+        "label": "E",
+        "content": "None of the other choices is correct",
+        "image_url": null,
+        "is_correct": false,
+        "question_id": "a5d93dfa-74b9-494b-9987-a9161bd0b6de"
+      }
+    ]
+  }
+]
